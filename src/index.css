@@ -1,0 +1,176 @@
+:root {
+  font-family: 'Ubuntu', sans-serif, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: #DDE6ED;
+  background-color: #27374D;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  font-size: 10px;
+}
+@media (width < 800px) {
+  :root {
+    font-size: 7px;
+  }
+}
+/*
+COLOR PALETTE
+#27374D
+#526D82
+#9DB2BF
+#DDE6ED
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  width: auto;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  font-size: 2rem;
+  width: 100%;
+  padding-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #27374D;
+  z-index: 100;
+}
+
+.header h1 {
+  margin: 2rem 1rem .5rem;
+}
+
+.header h2 {
+  margin: .5rem 1rem 3rem;
+}
+
+.Nav {
+  display: flex;
+}
+
+.navButtons {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style: none;
+  /* outline: 1px solid green; */
+  align-items: center;
+}
+
+.navButtons button {
+  margin: 0 .5rem;
+  font-size: 2rem;
+  padding: .5rem 1rem;
+  background-color: #9DB2BF;
+  color: #27374D;
+  text-align: center;
+  text-justify:distribute;
+  border: none;
+  border-radius: 1rem;
+}
+
+.navButtons button:hover {
+  cursor: pointer;
+  background-color: #66889e;
+  /* color: #5876a0; */
+}
+
+.indiceButton {
+  font-weight: 600;
+}
+
+.searchIcon {
+  /* outline: 1px yellow solid; */
+  align-self: center;
+  justify-self: center;
+  font-size: 2rem;
+  margin: 0 .5rem 0 1.5rem;
+}
+
+#searchBar {
+  font-size: 2rem;
+  padding-left: 1rem;
+  border-radius: 2rem;
+  border: none;
+  min-width: auto;
+  background-color: #9DB2BF;
+  color: #27374D;
+}
+
+.Content {
+  /* outline: solid purple 2px; */
+  padding: 1rem 2rem;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  transform: translateY(16.5rem);
+  
+}
+
+.songTitle {
+  font-size: 5rem;
+  margin: 2rem 0;
+  /* outline: brown solid 1px; */
+  text-align: center;
+}
+
+.indice {
+  list-style: none;
+  font-size: 2.5rem;
+  /* outline: solid 1px firebrick; */
+  padding: 0;
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  text-align: center;
+  column-gap: 10rem;
+}
+
+.songBody {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.songBody p {
+  margin: .5rem 0;
+}
+
+.indice li {
+  margin-bottom: 1rem;
+}
+
+.indice li:hover {
+  color: #526D82;
+  cursor: pointer;
+}
+
+.tooltip {
+  position: absolute;
+  transform: translate(-6.5rem, -1rem);
+  text-align: center;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.navButtons li:hover .tooltip {
+  opacity: 1;
+  pointer-events: auto;
+  transition:ease-in-out all 0.3s;
+  transform:translate(-6.5rem, -3rem);
+}
