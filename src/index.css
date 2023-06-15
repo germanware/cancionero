@@ -46,7 +46,7 @@ html {
 } */
 
 .App {
-  outline: rosybrown solid 2px;
+  /* outline: rosybrown solid 2px; */
   display: flex;
   justify-content: center;
 }
@@ -105,12 +105,20 @@ html {
   text-justify: distribute;
   border: none;
   border-radius: 1rem;
+  box-shadow: #526D82 0 1px 2px .5px;
+  transition: all ease-in-out;
 }
 
 .navButtons button:hover {
   cursor: pointer;
   background-color: #66889e;
+  transition: all ease-in-out;
   /* color: #5876a0; */
+}
+
+.navButtons button:active {
+  box-shadow: #526D82 0 1px 2px .5px inset;
+  background-color: #9DB2BF;
 }
 
 .indiceButton {
@@ -134,11 +142,14 @@ html {
   background-color: #9DB2BF;
   color: #27374D;
   transition: all ease-in-out 0.3s;
+  box-shadow: #526D82 0 1px 2px .5px;
 }
 
 #searchBar:focus {
   width: 100%;
   transition: all ease-in-out 0.3s;
+  box-shadow: #526D82 0 1px 2px .5px inset;
+  background-color: #DDE6ED;
 }
 
 .searchBarWrapper {
@@ -154,7 +165,7 @@ html {
   margin: 0;
   display: flex;
   justify-content: center;
-  width: 50%;
+  width: 75%;
 }
 
 .songTitle {
@@ -168,6 +179,7 @@ html {
   list-style: none;
   font-size: 2.5rem;
   /* outline: solid 1px firebrick; */
+  width: 100%;
   padding: 0;
   columns: 2;
   -webkit-columns: 2;
@@ -188,6 +200,7 @@ html {
 
 .indice li {
   margin-bottom: 1rem;
+  text-decoration: underline;
 }
 
 .indice li:hover {

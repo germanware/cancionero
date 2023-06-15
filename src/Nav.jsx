@@ -39,8 +39,7 @@ const Nav = ({ setShowIndice, search, setSearch, setOrdenar, songID, setSongID, 
             </ul>
             <span className='searchBarWrapper'><label htmlFor="searchBar" className='searchIcon'><FontAwesomeIcon icon={faMagnifyingGlass} /></label>
             <input type="text" id="searchBar" value={search}
-                onChange={(e) => setSearch((e.target.value).toLowerCase())}
-                placeholder=". . ." /></span>
+                onChange={(e) => setSearch((e.target.value).toLowerCase())} /></span>
         </nav>
     )
 }
