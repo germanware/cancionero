@@ -1,7 +1,7 @@
 import React from 'react'
 import Nav from './Nav';
 
-const Header = ({ setShowIndice, setSearch, ordenar, setOrdenar, search, songID, setSongID, songQty }) => {
+const Header = ({ setShowIndice, setSearch, ordenar, setOrdenar, search, songID, setSongID, songQty, setToTop }) => {
     return (
         <header className='header'>
             <h1>CANCIONERO I.C.E.</h1>
@@ -12,6 +12,7 @@ const Header = ({ setShowIndice, setSearch, ordenar, setOrdenar, search, songID,
                 setOrdenar={setOrdenar}
                 search={search} setSearch={setSearch}
                 songID={songID} setSongID={setSongID}
+                setToTop={setToTop}
             />
         </header>
     )

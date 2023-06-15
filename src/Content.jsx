@@ -1,7 +1,7 @@
 import React from 'react'
 import Song from './Song';
 
-const Content = ({ showIndice, setShowIndice, songTitle, songBody, ordenar, archivo, search, setSearch, setSongID }) => {
+const Content = ({ showIndice, setShowIndice, songTitle, songBody, ordenar, archivo, search, setSearch, setSongID, setToTop }) => {
 
     const handleSort = (data, orden) => {  //Devuelve la lista de canciones ordenada
         let idCount = 1;
@@ -70,6 +70,8 @@ const Content = ({ showIndice, setShowIndice, songTitle, songBody, ordenar, arch
         return str.normalize("NFD").replace(/([aeio])\u0301|(u)[\u0301\u0308]/gi, "$1$2").normalize();
     }
 
+
+
     return (
         <main className='Content'>
             <div>
@@ -89,6 +91,7 @@ const Content = ({ showIndice, setShowIndice, songTitle, songBody, ordenar, arch
                                     setSongID(song.id);
                                     setShowIndice(false);
                                     setSearch("");
+                                    setToTop((current) => !current);
                                 }}
                                 >{song.name}</li>
                             )
