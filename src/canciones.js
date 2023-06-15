@@ -449,4 +449,10 @@ export default [
         'name': 'He decidido seguir a Cristo',
         'body': ['///He decidido seguir a Cristo.///', 'No vuelvo atrás, no vuelvo atrás.', '', '///El Rey de gloria me ha perdonado.///', 'No vuelvo atrás, no vuelvo atrás.', '', '///Las cosas viejas ya he dejado.///', 'No vuelvo atrás, no vuelvo atrás.', '', 'He decidido seguir a Cristo.', 'El Rey de gloria me ha perdonado.', 'Las cosas viejas ya he dejado.', 'No vuelvo atrás, no vuelvo atrás.']
     },
+    {
+        'id': 76,
+        'pedida': 0,
+        'name': 'Se Tú mi visión',
+        'body': ['Dios de mi alma se Tú mi visión.', 'Nada te aparte de mi corazón.', 'Noche y día yo pienso en Ti,', 'Y tu presencia es luz para mí.', '', 'Sabiduría se Tú de mi ser.', 'Quiero a tu lado mi senda correr.', 'Como tu hijo, oh, tenme Señor.', 'Siempre morando en un mismo amor.', '', 'Riquezas vanas no quiero Señor,', 'Ni el hueco halago de la adulación.', 'Tú eres mi herencia, y Tú mi porción.', 'Rey de los cielos, tesoro mejor.', '', 'Oh Dios de gloria y del triunfo final', 'Déjame el gozo del cielo alcanzar.', 'Alma de mi alma, mi dueño y Señor.', 'En vida y muerte, se Tú mi visión.']
+    }
 ]
