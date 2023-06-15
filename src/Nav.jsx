@@ -37,10 +37,10 @@ const Nav = ({ setShowIndice, search, setSearch, setOrdenar, songID, setSongID, 
                 <li><button onClick={() => setOrdenar("mayormenor")}><FontAwesomeIcon icon={faArrowDownWideShort} /></button><span className='tooltip'>Más pedidas</span></li>
                 <li><button onClick={() => setOrdenar("menormayor")}><FontAwesomeIcon icon={faArrowUpWideShort} /></button><span className='tooltip'>Menos pedidas</span></li>
             </ul>
-            <label htmlFor="searchBar" className='searchIcon'><FontAwesomeIcon icon={faMagnifyingGlass} /></label>
+            <span className='searchBarWrapper'><label htmlFor="searchBar" className='searchIcon'><FontAwesomeIcon icon={faMagnifyingGlass} /></label>
             <input type="text" id="searchBar" value={search}
                 onChange={(e) => setSearch((e.target.value).toLowerCase())}
-                placeholder=". . ." />
+                placeholder=". . ." /></span>
         </nav>
     )
 }

@@ -21,7 +21,7 @@ function App() {
   }, [songID, ordenar]);
 
   return (
-    <>
+    <div className='App'>
       <Header
         setShowIndice={setShowIndice}
         setOrdenar={setOrdenar}
@@ -36,7 +36,7 @@ function App() {
         search={search} setSearch={setSearch}
         setSongID={setSongID} songID={songID}
       />
-    </>
+    </div>
   )
 }
 
