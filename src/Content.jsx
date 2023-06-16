@@ -87,13 +87,13 @@ const Content = ({ showIndice, setShowIndice, songTitle, songBody, ordenar, arch
                                     || removeAccents(searchedItem.name.toLowerCase()).includes(search))
                         }).map(song => {
                             return (
-                                <li className='songIndice' key={song.id} onClick={() => {
+                                <div className='songIndiceWrapper'><li className='songIndice' key={song.id} onClick={() => {
                                     setSongID(song.id);
                                     setShowIndice(false);
                                     setSearch("");
                                     setToTop((current) => !current);
                                 }}
-                                >{song.name}</li>
+                                >{song.name}</li><p className='vecesPedida'>{song.pedida}</p></div>
                             )
                         })}
                     </ul>

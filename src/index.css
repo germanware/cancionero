@@ -175,6 +175,8 @@ html {
   text-align: center;
 }
 
+
+
 .indice {
   list-style: none;
   font-size: 2.5rem;
@@ -184,7 +186,6 @@ html {
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
-  text-align: center;
   column-gap: 10rem;
 }
 
@@ -198,16 +199,30 @@ html {
   margin: .5rem 0;
 }
 
-.indice li {
+.songIndiceWrapper {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.songIndice {
   position: relative;
   margin-bottom: 1rem;
   text-decoration: underline;
   padding: .5rem .5rem;
   transition: all .5s ease-in-out;
   text-shadow: #070808 .2rem .2rem .2rem;
+  /* outline: 1px black solid; */
+  text-align: center;
 }
 
-.indice li::before {
+.vecesPedida {
+  font-size: 1.5rem;
+  margin: 0;
+  color: #9DB2BF;
+}
+
+.songIndice::before {
   content: "";
   background-color: aquamarine;
   position: absolute;
@@ -223,12 +238,12 @@ html {
   transition: .5s;
 }
 
-.indice li:hover::before {
+.songIndice:hover::before {
   opacity: 1;
   transform: scaleX(1);
 }
 
-.indice li:hover{
+.songIndice:hover{
   color: #070808;
   cursor: pointer;
   transition: all .5s ease-in-out;
