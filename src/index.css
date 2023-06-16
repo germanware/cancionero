@@ -166,6 +166,7 @@ html {
   display: flex;
   justify-content: center;
   width: 90%;
+  transition: all ease-in-out;
 }
 
 .songTitle {
@@ -173,9 +174,8 @@ html {
   margin: 2rem 0;
   /* outline: brown solid 1px; */
   text-align: center;
+  text-shadow: #070808 .2rem .2rem .2rem;
 }
-
-
 
 .indice {
   list-style: none;
@@ -193,6 +193,7 @@ html {
   font-size: 2.5rem;
   text-align: center;
   margin-top: 1rem;
+  text-shadow: #070808 .2rem .2rem .2rem;
 }
 
 .songBody p {
@@ -220,6 +221,7 @@ html {
   font-size: 1.5rem;
   margin: 0;
   color: #9DB2BF;
+  text-decoration: none;
 }
 
 .songIndice::before {
@@ -246,7 +248,7 @@ html {
 .songIndice:hover{
   color: #070808;
   cursor: pointer;
-  transition: all .5s ease-in-out;
+  transition: all .1s 0s ease-in-out;
   text-decoration: none;
   text-shadow: none;
 }
