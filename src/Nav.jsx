@@ -28,25 +28,25 @@ const Nav = ({ setShowIndice, search, setSearch, setOrdenar, songID, setSongID, 
             <ul className='navButtons'>
                 <li>
                     <button onClick={() => { handlePrev(); setToTop((current) => !current); }}><FontAwesomeIcon icon={faArrowLeft} /></button>
-                    <span className='tooltip'>Anterior</span>
+                    
                 </li>
                 <li>
                     <button className='indiceButton' onClick={() => { setShowIndice(true); setSearch(""); setToTop((current) => !current); }}>Índice</button>
                 </li>
                 <li>
-                    <button onClick={() => { handleNext(); setToTop((current) => !current); }}><FontAwesomeIcon icon={faArrowRight} /></button><span className='tooltip'>Siguiente</span>
+                    <button onClick={() => { handleNext(); setToTop((current) => !current); }}><FontAwesomeIcon icon={faArrowRight} /></button>
                 </li>
                 <li>
-                    <button onClick={() => setOrdenar("az")}><FontAwesomeIcon icon={faArrowDownAZ} /></button><span className='tooltip'>Ordenar A-Z</span>
+                    <button onClick={() => setOrdenar("az")}><FontAwesomeIcon icon={faArrowDownAZ} /></button>
                 </li>
                 <li>
-                    <button onClick={() => setOrdenar("za")}><FontAwesomeIcon icon={faArrowUpAZ} /></button><span className='tooltip'>Ordenar Z-A</span>
+                    <button onClick={() => setOrdenar("za")}><FontAwesomeIcon icon={faArrowUpAZ} /></button>
                 </li>
                 <li>
-                    <button onClick={() => setOrdenar("mayormenor")}><FontAwesomeIcon icon={faArrowDownWideShort} /></button><span className='tooltip'>Más pedidas</span>
+                    <button onClick={() => setOrdenar("mayormenor")}><FontAwesomeIcon icon={faArrowDownWideShort} /></button>
                 </li>
                 <li>
-                    <button onClick={() => setOrdenar("menormayor")}><FontAwesomeIcon icon={faArrowUpWideShort} /></button><span className='tooltip'>Menos pedidas</span>
+                    <button onClick={() => setOrdenar("menormayor")}><FontAwesomeIcon icon={faArrowUpWideShort} /></button>
                 </li>
             </ul>
             <span className='searchBarWrapper'><label htmlFor="searchBar" className='searchIcon'><FontAwesomeIcon icon={faMagnifyingGlass} /></label>

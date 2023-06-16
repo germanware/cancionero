@@ -138,16 +138,16 @@ html {
   padding-left: 1rem;
   border-radius: 2rem;
   border: none;
-  width: 30%;
+  width: 25%;
   background-color: #9DB2BF;
   color: #27374D;
-  transition: all ease-in-out 0.3s;
+  transition: all ease-in 0.5s;
   box-shadow: #526D82 0 1px 2px .5px;
 }
 
 #searchBar:focus {
   width: 100%;
-  transition: all ease-in-out 0.3s;
+  transition: all ease-out 0.5s;
   box-shadow: #526D82 0 1px 2px .5px inset;
   background-color: #DDE6ED;
 }
@@ -199,16 +199,44 @@ html {
 }
 
 .indice li {
+  position: relative;
   margin-bottom: 1rem;
   text-decoration: underline;
+  padding: .5rem .5rem;
+  transition: all .5s ease-in-out;
+  text-shadow: #070808 .2rem .2rem .2rem;
 }
 
-.indice li:hover {
-  color: #526D82;
+.indice li::before {
+  content: "";
+  background-color: aquamarine;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  top: 0%;
+  left: 0%;
+  --gradient: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(221,230,237,1) 25%, rgba(157,178,191,1) 50%, rgba(221,230,237,1) 75%, rgba(255,255,255,0) 100%);
+  background: var(--gradient);
+  opacity: 0;
+  transform: scaleX(0);
+  transition: .5s;
+}
+
+.indice li:hover::before {
+  opacity: 1;
+  transform: scaleX(1);
+}
+
+.indice li:hover{
+  color: #070808;
   cursor: pointer;
+  transition: all .5s ease-in-out;
+  text-decoration: none;
+  text-shadow: none;
 }
 
-.tooltip {
+/* .tooltip {
   position: absolute;
   transform: translate(-6.5rem, -1rem);
   text-align: center;
@@ -221,4 +249,4 @@ html {
   pointer-events: auto;
   transition: ease-in-out all 0.3s;
   transform: translate(-6.5rem, -3rem);
-}
+} */
