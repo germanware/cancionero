@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
 import { faArrowDownAZ, faArrowUpAZ, faArrowDownWideShort, faArrowUpWideShort, faArrowRight, faArrowLeft } from '@fortawesome/free-solid-svg-icons';
 
-const Nav = ({ setShowIndice, search, setSearch, setOrdenar, songID, setSongID, songQty, setToTop }) => {
+const Nav = ({ setShowIndice, search, setSearch, setOrdenar, songID, setSongID, songQty, setToTop, setShowVecesPedida }) => {
 
     const handleNext = () => {
         if (songID === songQty || songID === 0) {
@@ -37,16 +37,16 @@ const Nav = ({ setShowIndice, search, setSearch, setOrdenar, songID, setSongID, 
                     <button onClick={() => { handleNext(); setToTop((current) => !current); }}><FontAwesomeIcon icon={faArrowRight} /></button>
                 </li>
                 <li>
-                    <button onClick={() => setOrdenar("az")}><FontAwesomeIcon icon={faArrowDownAZ} /></button>
+                    <button onClick={() => { setOrdenar("az"); setShowVecesPedida(false) }}><FontAwesomeIcon icon={faArrowDownAZ} /></button>
                 </li>
                 <li>
-                    <button onClick={() => setOrdenar("za")}><FontAwesomeIcon icon={faArrowUpAZ} /></button>
+                    <button onClick={() => { setOrdenar("za"); setShowVecesPedida(false) }}><FontAwesomeIcon icon={faArrowUpAZ} /></button>
                 </li>
                 <li>
-                    <button onClick={() => setOrdenar("mayormenor")}><FontAwesomeIcon icon={faArrowDownWideShort} /></button>
+                    <button onClick={() => { setOrdenar("mayormenor"); setShowVecesPedida(true) }}><FontAwesomeIcon icon={faArrowDownWideShort} /></button>
                 </li>
                 <li>
-                    <button onClick={() => setOrdenar("menormayor")}><FontAwesomeIcon icon={faArrowUpWideShort} /></button>
+                    <button onClick={() => { setOrdenar("menormayor"); setShowVecesPedida(true) }}><FontAwesomeIcon icon={faArrowUpWideShort} /></button>
                 </li>
             </ul>
             <span className='searchBarWrapper'><label htmlFor="searchBar" className='searchIcon'><FontAwesomeIcon icon={faMagnifyingGlass} /></label>

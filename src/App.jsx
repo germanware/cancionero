@@ -12,6 +12,7 @@ function App() {
   const [search, setSearch] = useState("");
   const [ordenar, setOrdenar] = useState("az");
   const [toTop, setToTop] = useState(true);
+  const [showVecesPedida, setShowVecesPedida] = useState(false);
 
   const songQty = archivo.length;
 
@@ -37,6 +38,7 @@ function App() {
         search={search} setSearch={setSearch}
         songID={songID} setSongID={setSongID}
         songQty={songQty} setToTop={setToTop}
+        setShowVecesPedida={setShowVecesPedida}
       />
       <Content
         showIndice={showIndice} setShowIndice={setShowIndice}
@@ -44,6 +46,7 @@ function App() {
         ordenar={ordenar} archivo={archivo} setToTop={setToTop}
         search={search} setSearch={setSearch}
         setSongID={setSongID} songID={songID}
+        showVecesPedida={showVecesPedida}
       />
     </div>
   )

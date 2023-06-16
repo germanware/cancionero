@@ -1,7 +1,9 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Song from './Song';
 
-const Content = ({ showIndice, setShowIndice, songTitle, songBody, ordenar, archivo, search, setSearch, setSongID, setToTop }) => {
+const Content = ({ showIndice, setShowIndice, songTitle, songBody, ordenar, archivo, search, setSearch, setSongID, setToTop, showVecesPedida }) => {
+
+    
 
     const handleSort = (data, orden) => {  //Devuelve la lista de canciones ordenada
         let idCount = 1;
@@ -93,7 +95,7 @@ const Content = ({ showIndice, setShowIndice, songTitle, songBody, ordenar, arch
                                     setSearch("");
                                     setToTop((current) => !current);
                                 }}
-                                >{song.name}</li><p className='vecesPedida'>{song.pedida}</p></div>
+                                >{song.name}</li>{showVecesPedida && <p className='vecesPedida'>{song.pedida}</p>}</div>
                             )
                         })}
                     </ul>
