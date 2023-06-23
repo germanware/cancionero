@@ -1,7 +1,7 @@
 export default [
     {
         'id': 1,
-        'pedida': 3,
+        'pedida': 4,
         'name': "A quién iré?",
         'body': ['¿A quién iré en necesidad?', '¿A quién iré en busca de paz?', '¿Y quién podrá mi vida saciar de verdad?', '', '¿Quién más tendrá de mi compasión?', '¿Y entenderá mi corazón?', '¿Quién cambiará mi eternidad sino Tú, Jesús?', '', 'Cristo, ¿a donde más podría ir?', 'Cristo, ¿qué otro lugar puede existir?', 'Sólo Tú tienes palabras de amor,', 'Camino al Padre y Verdad eres Tú.', 'Cristo, ¿a donde más podría ir?']
     },
@@ -103,7 +103,7 @@ export default [
     },
     {
         'id': 18,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'Él es la voz',
         'body': ['Él es la voz que mis oídos abrió;', 'la libertad que mis cadenas rompió.', 'Él es la luz que mi alma oscura iluminó.', 'Él es Jesús, toda mi vida transformó.', '', 'Él hizo cambiar mi odio en amor,', 'convierte en alegría mi dolor.', 'Puede transformar al más pecador,', 'darle una nueva vida y su perdón.', '', 'Él hizo que vuelva a latir mi corazón.']
     },
@@ -127,7 +127,7 @@ export default [
     },
     {
         'id': 22,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Este es mi deseo',
         'body': ['Este es mi deseo, honrarte a Ti.', 'Con todo mi ser te adoro a Ti.', 'Con todas mis fuerzas te alabaré.', 'Mi adoración eres Tú.', '', '//Hoy te rindo mi ser, te doy mi corazón,', 'yo vivo para Ti.', 'En cada palpitar, mientras haya aliento en mí,', 'Dios haz tu obra en mí.//']
     },
@@ -343,7 +343,7 @@ export default [
     },
     {
         'id': 58,
-        'pedida': 6,
+        'pedida': 7,
         'name': 'Tú eres Dios',
         'body': ['Desde el fondo del mar,', 'del más alto lugar,', 'del más hondo abismo,', 'te alabaré.', 'Desde mi corazón,', 'fuerte o débil esté,', 'cada instante de mi vida,', 'con gozo yo diré:', '', 'Que Tú eres la roca eterna,', 'Señor sobre cielo y tierra.', 'Tú eres Dios.', 'Que toda criatura adore,', 'que toda nación se postre', 'a Ti, Señor. Tú eres Dios.']
     },
