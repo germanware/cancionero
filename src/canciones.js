@@ -163,7 +163,7 @@ export default [
     },
     {
         'id': 28,
-        'pedida': 3,
+        'pedida': 4,
         'name': 'Hay Libertad',
         'body': ['Las cadenas de la muerte me quitó.', 'Para mí ya no hay condenación,', 'hay libertad, libertad.', 'Siendo esclavo del pecado me libró.', 'En la cruz compró mi redención,', 'y libertad, libertad.', '', 'Rompió mis cadenas, me dio vida nueva', 'y al fondo del mar echó mi maldad.', 'Lavó mis pecados y me ha perdonado.', 'Sólo en el nombre de Jesús hay libertad.', '', 'Yo proclamo al que en la cruz por mí murió', 'y cambió mi duro corazón', 'por libertad, libertad.', 'El poder de su evangelio me salvó', 'y no me avergüenzo del Señor:', 'mi libertad, libertad.', '', '/Al que el Hijo, hace libre, es libre en verdad/']
     },
@@ -187,7 +187,7 @@ export default [
     },
     {
         'id': 32,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'La única razón',
         'body': ['La única razón de mi adoración,', 'eres Tú mi Jesús.', 'El único motivo para vivir,', 'eres Tú mi Señor.', '', 'Mi única verdad está en Ti,', 'eres mi luz y mi salvación.', 'Mi único amor, eres Tú Señor', 'y por siempre te alabaré.', '', '//Tú eres Todopoderoso,', 'eres grande y majestuoso,', 'eres fuerte, invencible', 'y no hay nadie como Tú.//']
     },
@@ -205,7 +205,7 @@ export default [
     },
     {
         'id': 35,
-        'pedida': 4,
+        'pedida': 5,
         'name': 'Más de lo que soñé',
         'body': ['Río en la sequedad, Paz en la adversidad', 'Fuerza en debilidad, El cielo es mi realidad', 'Sangre por libertad, Heridas por sanidad', 'Gracia en la iniquidad, Justicia por mi maldad.', '', 'Poderoso, Invencible, Deslumbrante, No tienes igual', 'Bondadoso, Generoso, Desbordante, No tienes igual', '', 'De mi pecado no tienes memoria,', 'Cambiaste mi nombre, reescribes mi historia,', 'En tus promesas seguro caminaré', 'Eres más de lo que soñé.', '', 'Tuya es toda gloria, El poder y honra', 'Tuya es toda gloria, El poder y honra']
     },
@@ -349,7 +349,7 @@ export default [
     },
     {
         'id': 59,
-        'pedida': 5,
+        'pedida': 6,
         'name': 'Tú eres todo',
         'body': ['Creador sin igual, que se hizo mortal.', 'En la cruz Él nos dio libertad,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Un día Él me encontró y me dio salvación,', 'y limpió mi rebelde interior,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Tú eres todo, Dios con nosotros,', 'Rey sin igual, no hay más palabras.', '', 'Si me encuentra la paz o una gran tempestad,', 'esta voz nunca voy a callar,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Y yo sé que vas a volver a este mundo envolver', 'con el fuego y la luz de tu ser,', 'y todo lo que yo soy cantará la canción:', '//¡Toda gloria a Cristo Jesús!//', '', 'CORO x2', '', 'Cuando esté frente al sol junto al gran resplandor', 'del eterno y glorioso Señor,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!']
     },
@@ -421,7 +421,7 @@ export default [
     },
     {
         'id': 71,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Cante al Señor',
         'body': ['Mi Cristo, mi Rey, Nadie es como Tú.', 'Toda mi vida quiero exaltar', 'las maravillas de tu amor.', '', 'Consuelo, Refugio, Torre de fuerza y poder.', 'Todo mi ser, lo que yo soy,', 'nunca cese de adorar.', '', 'Cante al Señor toda la creación.', 'Honra y poder, majestad sean al Rey.', 'Montes caerán y el mar rugirá', 'al sonar de su Nombre.', 'Canto con gozo al mirar tu poder.', 'Por siempre yo te amaré y diré:', 'Incomparables promesas me das Señor.']
     },
