@@ -43,7 +43,7 @@ export default [
     },
     {
         'id': 8,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'Bueno es alabar',
         'body': ['//Bueno es alabar, oh Señor, tu nombre.', 'Darte gloria, honra  y honor por siempre.', 'Bueno es alabarte Jesús y gozarme en tu poder//','', 'Porque grande eres Tú, grandes son tus obras.', 'Porque grande eres tú, grande es tu amor, grande es tu gloria.', 'Bueno es alabarte, oh Señor.']
     },
@@ -175,7 +175,7 @@ export default [
     },
     {
         'id': 30,
-        'pedida': 5,
+        'pedida': 6,
         'name': 'Jesucristo basta',
         'body': ['Nuestros corazones insaciables son', 'hasta que conocen a su Salvador.', 'Tal y como somos nos amó.', 'Hoy nos acercamos sin temor.', '', 'Él es el agua que al beber', 'nunca más tendremos sed.', '//Jesucristo basta.//', 'Mi castigo recibió', 'y su herencia me entregó.', '//Jesucristo basta.//', '', 'Fuimos alcanzados por su gran amor.', 'Con brazos abiertos nos recibe hoy.', 'Tal y como somos nos amó.', 'Hoy nos acercamos sin temor.', '', 'Ahora hay un futuro y esperanza fiel.', 'En su amor confiamos, hay descanso en Él.']
     },
@@ -337,7 +337,7 @@ export default [
     },
     {
         'id': 57,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Te alabaré, oh Señor',
         'body': ['//Te alabaré ¡oh Señor!', 'Invocaré tu Santo Nombre;', 'siempre daré a conocer', 'a los pueblos tus obras.//', '', '//Grandes son, grandes son,', 'grandes son tus maravillas.//']
     },
