@@ -133,7 +133,7 @@ export default [
     },
     {
         'id': 23,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Este pueblo que has formado',
         'body': ['Este pueblo que has formado hoy viene entregar', 'las ofrendas de sus labios, puestas en tu altar.', 'Este pueblo es tu Iglesia, que viene a adorar', 'al Único, a su Amado, al Rey de libertad.', '', 'Y canta: ¡Hosanna, gloria aleluya!', 'Oh Jesús amado tu amor me cautivado.', 'Y canta: ¡Hosanna, gloria, aleluya!', 'Alabanzas hoy yo traigo a tu nombre, Jesús.']
     },
@@ -289,7 +289,7 @@ export default [
     },
     {
         'id': 49,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Que hermoso es cantar',
         'body': ['Que hermoso es cantar,', 'que hermoso es orar.', 'Que hermoso es buscar', 'el rostro de Dios.', 'Gustar de su amor,', 'gozar de su paz.', 'Que hermoso es tener', 'de Cristo el solaz.', 'La sangre que dio,', 'limpió nuestro mal.', 'Que hermoso es cantar,', 'que hermoso es orar.']
     },
@@ -454,5 +454,11 @@ export default [
         'pedida': 0,
         'name': 'Se Tú mi visión',
         'body': ['Dios de mi alma se Tú mi visión.', 'Nada te aparte de mi corazón.', 'Noche y día yo pienso en Ti,', 'Y tu presencia es luz para mí.', '', 'Sabiduría se Tú de mi ser.', 'Quiero a tu lado mi senda correr.', 'Como tu hijo, oh, tenme Señor.', 'Siempre morando en un mismo amor.', '', 'Riquezas vanas no quiero Señor,', 'Ni el hueco halago de la adulación.', 'Tú eres mi herencia, y Tú mi porción.', 'Rey de los cielos, tesoro mejor.', '', 'Oh Dios de gloria y del triunfo final', 'Déjame el gozo del cielo alcanzar.', 'Alma de mi alma, mi dueño y Señor.', 'En vida y muerte, se Tú mi visión.']
+    },
+    {
+        'id': 77,
+        'pedida': 1,
+        'name': 'Por Fe',
+        'body': ['Por fe veremos a nuestro Dios,', 'En el plan que creó en la eternindad,', 'En la vida de los fieles que llamó,', 'A vivir por fe y no por ver.', 'Por fe el justo vivirá;', 'Por la fe caminamos junto a Él', 'Como viendo al invisible, Protector;', 'Vivir por fe y no por ver.', '', 'Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.', '', 'Por fe profetas hablaron fiel;', 'Por la fe proclamaron la verdad', 'Del Mesías prometido en Edén,', 'El que la muerte venció en la cruz.', 'Por fe la iflesia se moverá,', 'Con poder del Espíritu de Dios;', 'Y las huestes del infierno no podrán,', 'Da{ar la obra de nuestro Dios.', '', 'Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.', '', 'Por fe los montes se moverán,', 'Si la fe permanece en Jesús;', 'El poder del evangelio librará,', 'A todo aque que confía en Él.', '', '//Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.//']
     }
 ]
