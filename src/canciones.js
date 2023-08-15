@@ -91,13 +91,13 @@ export default [
     },
     {
         'id': 16,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Dios Imparable',
         'body': ['Eres alabado, eres exaltado.', 'Tu nombre levantamos, aleluya, aleluya.', 'Eres adorado, te glorificamos.', 'Tu nombre levantamos, aleluya, aleluya.', '', 'A una sola voz, nos unimos hoy.', 'Te cantamos Dios en adoración.', '', '//Dios imparable, Dios de imposibles', 'Inigualable, eres invencible//', '//No tengo temor en mi corazón,', 'Tú tienes el control//', '', '//No me falta nada si te tengo a Ti.//']
     },
     {
         'id': 17,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'El Dios que adoramos',
         'body': ['El Dios que hizo los cielos y la tierra', 'con el poder de Su palabra reina con autoridad.', 'El Dios que aun los vientos le obedecen.', 'Una palabra es suficiente para los muertos levantar.', '', 'Nadie es como Él, oh gran Yo Soy.', '', 'Tú eres el Dios que adoramos', 'Todopoderoso y Soberano.', 'Grande en misericordia y poder para salvar.', 'Tú eres el Dios que adoramos,', 'quien derrotó la muerte y el pecado.', 'Glorioso Redentor y Rey, te adoramos.', '', 'El Dios que descendió desde Su trono', 'para llevar sobre sus hombros', 'nuestra culpa y transgresión.', 'Jesús, exaltado sobre todo', 'Nombre sobre todo nombre.', 'Sólo en Él hay Salvación.', '', 'A Él sea la gloria y el poder.', 'Todo es de Él y para Él.']
     },
@@ -163,7 +163,7 @@ export default [
     },
     {
         'id': 28,
-        'pedida': 4,
+        'pedida': 5,
         'name': 'Hay Libertad',
         'body': ['Las cadenas de la muerte me quitó.', 'Para mí ya no hay condenación,', 'hay libertad, libertad.', 'Siendo esclavo del pecado me libró.', 'En la cruz compró mi redención,', 'y libertad, libertad.', '', 'Rompió mis cadenas, me dio vida nueva', 'y al fondo del mar echó mi maldad.', 'Lavó mis pecados y me ha perdonado.', 'Sólo en el nombre de Jesús hay libertad.', '', 'Yo proclamo al que en la cruz por mí murió', 'y cambió mi duro corazón', 'por libertad, libertad.', 'El poder de su evangelio me salvó', 'y no me avergüenzo del Señor:', 'mi libertad, libertad.', '', '/Al que el Hijo, hace libre, es libre en verdad/']
     },
@@ -295,7 +295,7 @@ export default [
     },
     {
         'id': 50,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'Qué sería de mí?',
         'body': ['¿Qué sería de mí,', 'si no me hubieras alcanzado?', '¿Dónde estaría hoy,', 'si no me hubieras perdonado?', 'Tendría un vacío en mi corazón,', 'vagaría sin rumbo sin dirección.', '//Si no fuera por tu gracia y por tu amor.//', '', 'Sería como un pájaro herido,', 'que se muere en el suelo.', 'Sería como un ciervo que brama', 'por agua en un desierto.', '//Si no fuera por tu gracia y por tu amor.//']
     },
@@ -313,7 +313,7 @@ export default [
     },
     {
         'id': 53,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'Sendas Dios hará',
         'body': ['Sendas Dios hará,', 'donde piensas que no hay.', 'Él obra de maneras que', 'no podemos entender.', 'Él me guiará a su lado estaré.', 'Amor y fuerza me dará.', 'Un camino hará donde no lo hay.', '', 'Por caminos en la soledad me guiará', 'y agua en el desierto encontraré.', 'La tierra pasará su palabra eterna es.', 'Él hará algo nuevo hoy.']
     },
@@ -349,7 +349,7 @@ export default [
     },
     {
         'id': 59,
-        'pedida': 6,
+        'pedida': 7,
         'name': 'Tú eres todo',
         'body': ['Creador sin igual, que se hizo mortal.', 'En la cruz Él nos dio libertad,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Un día Él me encontró y me dio salvación,', 'y limpió mi rebelde interior,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Tú eres todo, Dios con nosotros,', 'Rey sin igual, no hay más palabras.', '', 'Si me encuentra la paz o una gran tempestad,', 'esta voz nunca voy a callar,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Y yo sé que vas a volver a este mundo envolver', 'con el fuego y la luz de tu ser,', 'y todo lo que yo soy cantará la canción:', '//¡Toda gloria a Cristo Jesús!//', '', 'CORO x2', '', 'Cuando esté frente al sol junto al gran resplandor', 'del eterno y glorioso Señor,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!']
     },
@@ -451,7 +451,7 @@ export default [
     },
     {
         'id': 76,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Se Tú mi visión',
         'body': ['Dios de mi alma se Tú mi visión.', 'Nada te aparte de mi corazón.', 'Noche y día yo pienso en Ti,', 'Y tu presencia es luz para mí.', '', 'Sabiduría se Tú de mi ser.', 'Quiero a tu lado mi senda correr.', 'Como tu hijo, oh, tenme Señor.', 'Siempre morando en un mismo amor.', '', 'Riquezas vanas no quiero Señor,', 'Ni el hueco halago de la adulación.', 'Tú eres mi herencia, y Tú mi porción.', 'Rey de los cielos, tesoro mejor.', '', 'Oh Dios de gloria y del triunfo final', 'Déjame el gozo del cielo alcanzar.', 'Alma de mi alma, mi dueño y Señor.', 'En vida y muerte, se Tú mi visión.']
     },
