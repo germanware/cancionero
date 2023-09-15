@@ -1,13 +1,13 @@
 export default [
     {
         'id': 1,
-        'pedida': 5,
+        'pedida': 6,
         'name': "A quién iré?",
         'body': ['¿A quién iré en necesidad?', '¿A quién iré en busca de paz?', '¿Y quién podrá mi vida saciar de verdad?', '', '¿Quién más tendrá de mi compasión?', '¿Y entenderá mi corazón?', '¿Quién cambiará mi eternidad sino Tú, Jesús?', '', 'Cristo, ¿a donde más podría ir?', 'Cristo, ¿qué otro lugar puede existir?', 'Sólo Tú tienes palabras de amor,', 'Camino al Padre y Verdad eres Tú.', 'Cristo, ¿a donde más podría ir?']
     },
     {
         'id': 2,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Al único que es digno',
         'body': ['//Al único que es digno de recibir', 'gloria y honra, fuerza y poder;', 'al Dios y Padre eternal, invisible pero real,', 'a Él hoy ministramos loor.//', '', 'Te coronamos, Señor y Rey Jesús.', 'Te coronamos, Señor y Rey Jesús.', 'Adoramos tu Nombre, nos rendimos a tus pies.', '///Consagramos todo nuestro ser a Ti.///']
     },
@@ -97,7 +97,7 @@ export default [
     },
     {
         'id': 17,
-        'pedida': 3,
+        'pedida': 4,
         'name': 'El Dios que adoramos',
         'body': ['El Dios que hizo los cielos y la tierra', 'con el poder de Su palabra reina con autoridad.', 'El Dios que aun los vientos le obedecen.', 'Una palabra es suficiente para los muertos levantar.', '', 'Nadie es como Él, oh gran Yo Soy.', '', 'Tú eres el Dios que adoramos', 'Todopoderoso y Soberano.', 'Grande en misericordia y poder para salvar.', 'Tú eres el Dios que adoramos,', 'quien derrotó la muerte y el pecado.', 'Glorioso Redentor y Rey, te adoramos.', '', 'El Dios que descendió desde Su trono', 'para llevar sobre sus hombros', 'nuestra culpa y transgresión.', 'Jesús, exaltado sobre todo', 'Nombre sobre todo nombre.', 'Sólo en Él hay Salvación.', '', 'A Él sea la gloria y el poder.', 'Todo es de Él y para Él.']
     },
@@ -175,7 +175,7 @@ export default [
     },
     {
         'id': 30,
-        'pedida': 6,
+        'pedida': 7,
         'name': 'Jesucristo basta',
         'body': ['Nuestros corazones insaciables son', 'hasta que conocen a su Salvador.', 'Tal y como somos nos amó.', 'Hoy nos acercamos sin temor.', '', 'Él es el agua que al beber', 'nunca más tendremos sed.', '//Jesucristo basta.//', 'Mi castigo recibió', 'y su herencia me entregó.', '//Jesucristo basta.//', '', 'Fuimos alcanzados por su gran amor.', 'Con brazos abiertos nos recibe hoy.', 'Tal y como somos nos amó.', 'Hoy nos acercamos sin temor.', '', 'Ahora hay un futuro y esperanza fiel.', 'En su amor confiamos, hay descanso en Él.']
     },
@@ -199,7 +199,7 @@ export default [
     },
     {
         'id': 34,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'Maravilloso Dios',
         'body': ['Maravilloso Dios, Tú permaneces siempre fiel.', 'Tu gloria y tu poder llenan mi vida de tu ser.', 'Sostenme con tu amor,', 'con la victoria en tu perdón.', '', 'Desde mi corazón te canto hoy']
     },
@@ -223,7 +223,7 @@ export default [
     },
     {
         "id": 38,
-        "pedida": 5,
+        "pedida": 6,
         "name": "Mi Roca",
         "body": ["Mi esperanza está en Jesús,", "en su justicia y en la cruz.", "De nadie más dependeré;", "sólo en su Nombre confiaré.", "", "En Jesús fuerte soy.", "Sólo Él mi Roca es.", "Sobre la tempestad,", "Él es Rey.", "", "Cuando no puedo ver su faz", "sé que su gracia es siempre igual.", "A la tormenta venceré.", "//Mi ancla firme está en Él.//", "", "Un día Él regresará;", "en su presencia voy a estar.", "Sin mancha ante Él vendré,", "//justificado por la fe.//"]
     },
@@ -343,13 +343,13 @@ export default [
     },
     {
         'id': 58,
-        'pedida': 8,
+        'pedida': 10,
         'name': 'Tú eres Dios',
         'body': ['Desde el fondo del mar,', 'del más alto lugar,', 'del más hondo abismo,', 'te alabaré.', 'Desde mi corazón,', 'fuerte o débil esté,', 'cada instante de mi vida,', 'con gozo yo diré:', '', 'Que Tú eres la roca eterna,', 'Señor sobre cielo y tierra.', 'Tú eres Dios.', 'Que toda criatura adore,', 'que toda nación se postre', 'a Ti, Señor. Tú eres Dios.']
     },
     {
         'id': 59,
-        'pedida': 7,
+        'pedida': 8,
         'name': 'Tú eres todo',
         'body': ['Creador sin igual, que se hizo mortal.', 'En la cruz Él nos dio libertad,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Un día Él me encontró y me dio salvación,', 'y limpió mi rebelde interior,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Tú eres todo, Dios con nosotros,', 'Rey sin igual, no hay más palabras.', '', 'Si me encuentra la paz o una gran tempestad,', 'esta voz nunca voy a callar,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Y yo sé que vas a volver a este mundo envolver', 'con el fuego y la luz de tu ser,', 'y todo lo que yo soy cantará la canción:', '//¡Toda gloria a Cristo Jesús!//', '', 'CORO x2', '', 'Cuando esté frente al sol junto al gran resplandor', 'del eterno y glorioso Señor,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!']
     },
@@ -373,7 +373,7 @@ export default [
     },
     {
         'id': 63,
-        'pedida': 3,
+        'pedida': 4,
         'name': 'Cuan dulce paz',
         'body': ['En el fondo de mi alma hay una dulce quietud', 'Se difunde inundando mi ser', 'Una calma infinita que sólo podrán', 'Los amados de Dios comprender', '', 'Paz, paz, cuan dulce paz', 'Es aquella que el Padre me da', 'Yo le ruego por siempre que inunde mi ser', 'En sus ondas de amor celestial', '', 'Qué tesoro yo tengo en la paz que me dio', 'Y en el fondo de mi alma ha de estar', 'Tan segura que nadie quitarla podrá', 'Mientras mire los años pasar', '', 'Alma triste que en rudo conflicto te ves', 'Sola y débil tu senda al seguir', 'Haz de Cristo tu amigo pues fiel siempre es', 'Y su paz tú podrás recibir']
     },
@@ -457,7 +457,7 @@ export default [
     },
     {
         'id': 77,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Por Fe',
         'body': ['Por fe veremos a nuestro Dios,', 'En el plan que creó en la eternindad,', 'En la vida de los fieles que llamó,', 'A vivir por fe y no por ver.', 'Por fe el justo vivirá;', 'Por la fe caminamos junto a Él', 'Como viendo al invisible, Protector;', 'Vivir por fe y no por ver.', '', 'Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.', '', 'Por fe profetas hablaron fiel;', 'Por la fe proclamaron la verdad', 'Del Mesías prometido en Edén,', 'El que la muerte venció en la cruz.', 'Por fe la iflesia se moverá,', 'Con poder del Espíritu de Dios;', 'Y las huestes del infierno no podrán,', 'Da{ar la obra de nuestro Dios.', '', 'Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.', '', 'Por fe los montes se moverán,', 'Si la fe permanece en Jesús;', 'El poder del evangelio librará,', 'A todo aque que confía en Él.', '', '//Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.//']
     }
