@@ -247,7 +247,7 @@ export default [
     },
     {
         'id': 42,
-        'pedida': 3,
+        'pedida': 4,
         'name': 'Nuestro canto',
         'body': ['Nuestro canto expresa un sentir', 'y es preciso que se pueda oír.', 'En las calles, en las plazas,', 'en los campos, las montañas,', 'a lo largo y a lo ancho del país.', '', 'Jesucristo es la verdad,', 'nuestra fe y nuestro compromiso.', 'Él es la vida en plenitud,', 'Él es la fuerza y es la luz,', 'es la alegría que me alienta a continuar.', 'Es el poder para cambiar', 'toda una vida y darle más.', 'Jesucristo es la razón para vivir.', '', 'Este es el momento para actuar,', 'en cada rincón, cada lugar.', 'Nuestra patria necesita', 'actitudes decididas', 'de cristianos que se jueguen de verdad.']
     },
@@ -361,7 +361,7 @@ export default [
     },
     {
         'id': 61,
-        'pedida': 3,
+        'pedida': 4,
         'name': 'Tu Nombre levantaré',
         'body': ['Tu Nombre levantaré,', 'me deleito en adorarte.', 'Te agradezco que en mi vida estés,', 'y que vinieras a salvarme.', '', '/Dejaste el trono para mostrarnos la luz,', 'de tu trono a la cruz y mi deuda pagar,', 'de la cruz al morir, de la muerte a tu trono.', 'Tu nombre levantaré./']
     },
