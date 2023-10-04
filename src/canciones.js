@@ -1,7 +1,7 @@
 export default [
     {
         'id': 1,
-        'pedida': 6,
+        'pedida': 7,
         'name': "A quién iré?",
         'body': ['¿A quién iré en necesidad?', '¿A quién iré en busca de paz?', '¿Y quién podrá mi vida saciar de verdad?', '', '¿Quién más tendrá de mi compasión?', '¿Y entenderá mi corazón?', '¿Quién cambiará mi eternidad sino Tú, Jesús?', '', 'Cristo, ¿a donde más podría ir?', 'Cristo, ¿qué otro lugar puede existir?', 'Sólo Tú tienes palabras de amor,', 'Camino al Padre y Verdad eres Tú.', 'Cristo, ¿a donde más podría ir?']
     },
@@ -205,13 +205,13 @@ export default [
     },
     {
         'id': 35,
-        'pedida': 6,
+        'pedida': 7,
         'name': 'Más de lo que soñé',
         'body': ['Río en la sequedad, Paz en la adversidad', 'Fuerza en debilidad, El cielo es mi realidad', 'Sangre por libertad, Heridas por sanidad', 'Gracia en la iniquidad, Justicia por mi maldad.', '', 'Poderoso, Invencible, Deslumbrante, No tienes igual', 'Bondadoso, Generoso, Desbordante, No tienes igual', '', 'De mi pecado no tienes memoria,', 'Cambiaste mi nombre, reescribes mi historia,', 'En tus promesas seguro caminaré', 'Eres más de lo que soñé.', '', 'Tuya es toda gloria, El poder y honra', 'Tuya es toda gloria, El poder y honra']
     },
     {
         'id': 36,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Me gustaría compartir',
         'body': ['Me gustaría compartir la dicha de vivir,', 'siguiendo siempre a mi Señor y así ser muy feliz.', 'A su lado siempre iré, con Él caminaré', 'hablando a todos de su amor y así yo viviré.', '', '//En Él hallé la vida y también su perdón', 'dale tu corazón y Él te dará alegría.//']
     },
@@ -223,7 +223,7 @@ export default [
     },
     {
         "id": 38,
-        "pedida": 6,
+        "pedida": 7,
         "name": "Mi Roca",
         "body": ["Mi esperanza está en Jesús,", "en su justicia y en la cruz.", "De nadie más dependeré;", "sólo en su Nombre confiaré.", "", "En Jesús fuerte soy.", "Sólo Él mi Roca es.", "Sobre la tempestad,", "Él es Rey.", "", "Cuando no puedo ver su faz", "sé que su gracia es siempre igual.", "A la tormenta venceré.", "//Mi ancla firme está en Él.//", "", "Un día Él regresará;", "en su presencia voy a estar.", "Sin mancha ante Él vendré,", "//justificado por la fe.//"]
     },
@@ -271,7 +271,7 @@ export default [
     },
     {
         "id": 46,
-        "pedida": 4,
+        "pedida": 5,
         "name": "Poema de Salvación",
         "body": ["Cristo moriste en una cruz,", "resucitaste con poder.", "Perdona mis pecados hoy,", "se mi Señor y Salvador.", "", "Cámbiame y hazme otra vez", "y ayúdame a serte fiel.", "Cámbiame y hazme otra vez", "y ayúdame a serte fiel."]
     },
@@ -289,7 +289,7 @@ export default [
     },
     {
         'id': 49,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Que hermoso es cantar',
         'body': ['Que hermoso es cantar,', 'que hermoso es orar.', 'Que hermoso es buscar', 'el rostro de Dios.', 'Gustar de su amor,', 'gozar de su paz.', 'Que hermoso es tener', 'de Cristo el solaz.', 'La sangre que dio,', 'limpió nuestro mal.', 'Que hermoso es cantar,', 'que hermoso es orar.']
     },
@@ -349,7 +349,7 @@ export default [
     },
     {
         'id': 59,
-        'pedida': 8,
+        'pedida': 9,
         'name': 'Tú eres todo',
         'body': ['Creador sin igual, que se hizo mortal.', 'En la cruz Él nos dio libertad,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Un día Él me encontró y me dio salvación,', 'y limpió mi rebelde interior,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Tú eres todo, Dios con nosotros,', 'Rey sin igual, no hay más palabras.', '', 'Si me encuentra la paz o una gran tempestad,', 'esta voz nunca voy a callar,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Y yo sé que vas a volver a este mundo envolver', 'con el fuego y la luz de tu ser,', 'y todo lo que yo soy cantará la canción:', '//¡Toda gloria a Cristo Jesús!//', '', 'CORO x2', '', 'Cuando esté frente al sol junto al gran resplandor', 'del eterno y glorioso Señor,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!']
     },
@@ -415,7 +415,7 @@ export default [
     },
     {
         'id': 70,
-        'pedida': 3,
+        'pedida': 4,
         'name': 'Victoria en Cristo',
         'body': ['Oí bendita historia de Jesús, quién de su gloria,', 'al calvario decidió venir para salvarme a mí.', 'Su sangre derramada, se aplicó feliz a mi alma.', 'Me dio victoria sinigual cuando me arrepentí.', '', 'Ya tengo la victoria, pues Cristo me salva.', 'Buscome y comprome con su divino amor.', 'Me imparte de su gloria; su paz inunda mi alma.', 'Victoria me concedió cuando por mí murió.', '', 'Oí que en dulce gloria hay mansiones de victoria,', 'que su santa mano preparó, para los que Él salvó.', 'Espero unir mi canto al coro de los santos,', 'que victorioso rendirá tributo al Redentor.']
     },
