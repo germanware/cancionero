@@ -91,7 +91,7 @@ export default [
     },
     {
         'id': 16,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'Dios Imparable',
         'body': ['Eres alabado, eres exaltado.', 'Tu nombre levantamos, aleluya, aleluya.', 'Eres adorado, te glorificamos.', 'Tu nombre levantamos, aleluya, aleluya.', '', 'A una sola voz, nos unimos hoy.', 'Te cantamos Dios en adoración.', '', '//Dios imparable, Dios de imposibles', 'Inigualable, eres invencible//', '//No tengo temor en mi corazón,', 'Tú tienes el control//', '', '//No me falta nada si te tengo a Ti.//']
     },
@@ -175,7 +175,7 @@ export default [
     },
     {
         'id': 30,
-        'pedida': 7,
+        'pedida': 8,
         'name': 'Jesucristo basta',
         'body': ['Nuestros corazones insaciables son', 'hasta que conocen a su Salvador.', 'Tal y como somos nos amó.', 'Hoy nos acercamos sin temor.', '', 'Él es el agua que al beber', 'nunca más tendremos sed.', '//Jesucristo basta.//', 'Mi castigo recibió', 'y su herencia me entregó.', '//Jesucristo basta.//', '', 'Fuimos alcanzados por su gran amor.', 'Con brazos abiertos nos recibe hoy.', 'Tal y como somos nos amó.', 'Hoy nos acercamos sin temor.', '', 'Ahora hay un futuro y esperanza fiel.', 'En su amor confiamos, hay descanso en Él.']
     },
@@ -205,7 +205,7 @@ export default [
     },
     {
         'id': 35,
-        'pedida': 7,
+        'pedida': 8,
         'name': 'Más de lo que soñé',
         'body': ['Río en la sequedad, Paz en la adversidad', 'Fuerza en debilidad, El cielo es mi realidad', 'Sangre por libertad, Heridas por sanidad', 'Gracia en la iniquidad, Justicia por mi maldad.', '', 'Poderoso, Invencible, Deslumbrante, No tienes igual', 'Bondadoso, Generoso, Desbordante, No tienes igual', '', 'De mi pecado no tienes memoria,', 'Cambiaste mi nombre, reescribes mi historia,', 'En tus promesas seguro caminaré', 'Eres más de lo que soñé.', '', 'Tuya es toda gloria, El poder y honra', 'Tuya es toda gloria, El poder y honra']
     },
@@ -223,7 +223,7 @@ export default [
     },
     {
         "id": 38,
-        "pedida": 7,
+        "pedida": 8,
         "name": "Mi Roca",
         "body": ["Mi esperanza está en Jesús,", "en su justicia y en la cruz.", "De nadie más dependeré;", "sólo en su Nombre confiaré.", "", "En Jesús fuerte soy.", "Sólo Él mi Roca es.", "Sobre la tempestad,", "Él es Rey.", "", "Cuando no puedo ver su faz", "sé que su gracia es siempre igual.", "A la tormenta venceré.", "//Mi ancla firme está en Él.//", "", "Un día Él regresará;", "en su presencia voy a estar.", "Sin mancha ante Él vendré,", "//justificado por la fe.//"]
     },
@@ -247,7 +247,7 @@ export default [
     },
     {
         'id': 42,
-        'pedida': 4,
+        'pedida': 5,
         'name': 'Nuestro canto',
         'body': ['Nuestro canto expresa un sentir', 'y es preciso que se pueda oír.', 'En las calles, en las plazas,', 'en los campos, las montañas,', 'a lo largo y a lo ancho del país.', '', 'Jesucristo es la verdad,', 'nuestra fe y nuestro compromiso.', 'Él es la vida en plenitud,', 'Él es la fuerza y es la luz,', 'es la alegría que me alienta a continuar.', 'Es el poder para cambiar', 'toda una vida y darle más.', 'Jesucristo es la razón para vivir.', '', 'Este es el momento para actuar,', 'en cada rincón, cada lugar.', 'Nuestra patria necesita', 'actitudes decididas', 'de cristianos que se jueguen de verdad.']
     },
@@ -271,7 +271,7 @@ export default [
     },
     {
         "id": 46,
-        "pedida": 5,
+        "pedida": 6,
         "name": "Poema de Salvación",
         "body": ["Cristo moriste en una cruz,", "resucitaste con poder.", "Perdona mis pecados hoy,", "se mi Señor y Salvador.", "", "Cámbiame y hazme otra vez", "y ayúdame a serte fiel.", "Cámbiame y hazme otra vez", "y ayúdame a serte fiel."]
     },
@@ -295,7 +295,7 @@ export default [
     },
     {
         'id': 50,
-        'pedida': 3,
+        'pedida': 4,
         'name': 'Qué sería de mí?',
         'body': ['¿Qué sería de mí,', 'si no me hubieras alcanzado?', '¿Dónde estaría hoy,', 'si no me hubieras perdonado?', 'Tendría un vacío en mi corazón,', 'vagaría sin rumbo sin dirección.', '//Si no fuera por tu gracia y por tu amor.//', '', 'Sería como un pájaro herido,', 'que se muere en el suelo.', 'Sería como un ciervo que brama', 'por agua en un desierto.', '//Si no fuera por tu gracia y por tu amor.//']
     },
@@ -343,7 +343,7 @@ export default [
     },
     {
         'id': 58,
-        'pedida': 10,
+        'pedida': 11,
         'name': 'Tú eres Dios',
         'body': ['Desde el fondo del mar,', 'del más alto lugar,', 'del más hondo abismo,', 'te alabaré.', 'Desde mi corazón,', 'fuerte o débil esté,', 'cada instante de mi vida,', 'con gozo yo diré:', '', 'Que Tú eres la roca eterna,', 'Señor sobre cielo y tierra.', 'Tú eres Dios.', 'Que toda criatura adore,', 'que toda nación se postre', 'a Ti, Señor. Tú eres Dios.']
     },
@@ -421,7 +421,7 @@ export default [
     },
     {
         'id': 71,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'Cante al Señor',
         'body': ['Mi Cristo, mi Rey, Nadie es como Tú.', 'Toda mi vida quiero exaltar', 'las maravillas de tu amor.', '', 'Consuelo, Refugio, Torre de fuerza y poder.', 'Todo mi ser, lo que yo soy,', 'nunca cese de adorar.', '', 'Cante al Señor toda la creación.', 'Honra y poder, majestad sean al Rey.', 'Montes caerán y el mar rugirá', 'al sonar de su Nombre.', 'Canto con gozo al mirar tu poder.', 'Por siempre yo te amaré y diré:', 'Incomparables promesas me das Señor.']
     },
