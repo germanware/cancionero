@@ -91,7 +91,7 @@ export default [
     },
     {
         'id': 16,
-        'pedida': 3,
+        'pedida': 4,
         'name': 'Dios Imparable',
         'body': ['Eres alabado, eres exaltado.', 'Tu nombre levantamos, aleluya, aleluya.', 'Eres adorado, te glorificamos.', 'Tu nombre levantamos, aleluya, aleluya.', '', 'A una sola voz, nos unimos hoy.', 'Te cantamos Dios en adoración.', '', '//Dios imparable, Dios de imposibles', 'Inigualable, eres invencible//', '//No tengo temor en mi corazón,', 'Tú tienes el control//', '', '//No me falta nada si te tengo a Ti.//']
     },
@@ -139,7 +139,7 @@ export default [
     },
     {
         'id': 24,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Fuerte Dios',
         'body': ['Fuerte Dios, Consolador, Príncipe de paz.', 'Gran Señor, vencedor,', 'siempre vives y siempre reinarás.', '', 'Dios te exalto, Dios te exalto.', 'Eres todo para mí, la creación canta de Ti', 'Dios te exalto, Dios, te exalto.', 'Te exalto Cristo, mi Rey.', '', 'Te exalto Cristo, mi Rey.', 'Te exalto Cristo, mi Rey.']
     },
@@ -259,7 +259,7 @@ export default [
     },
     {
         'id': 44,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'Oh, oh ven...',
         'body': ['//¡Oh, oh, oh, ven! Ven y deléitate en el Señor', 'y Él te concederá las peticiones de tu corazón.//', '', 'Confía solo en Él, y Él dará.', 'Espera sólo en Él y Él hará.']
     },
@@ -415,13 +415,13 @@ export default [
     },
     {
         'id': 70,
-        'pedida': 4,
+        'pedida': 5,
         'name': 'Victoria en Cristo',
         'body': ['Oí bendita historia de Jesús, quién de su gloria,', 'al calvario decidió venir para salvarme a mí.', 'Su sangre derramada, se aplicó feliz a mi alma.', 'Me dio victoria sinigual cuando me arrepentí.', '', 'Ya tengo la victoria, pues Cristo me salva.', 'Buscome y comprome con su divino amor.', 'Me imparte de su gloria; su paz inunda mi alma.', 'Victoria me concedió cuando por mí murió.', '', 'Oí que en dulce gloria hay mansiones de victoria,', 'que su santa mano preparó, para los que Él salvó.', 'Espero unir mi canto al coro de los santos,', 'que victorioso rendirá tributo al Redentor.']
     },
     {
         'id': 71,
-        'pedida': 3,
+        'pedida': 4,
         'name': 'Cante al Señor',
         'body': ['Mi Cristo, mi Rey, Nadie es como Tú.', 'Toda mi vida quiero exaltar', 'las maravillas de tu amor.', '', 'Consuelo, Refugio, Torre de fuerza y poder.', 'Todo mi ser, lo que yo soy,', 'nunca cese de adorar.', '', 'Cante al Señor toda la creación.', 'Honra y poder, majestad sean al Rey.', 'Montes caerán y el mar rugirá', 'al sonar de su Nombre.', 'Canto con gozo al mirar tu poder.', 'Por siempre yo te amaré y diré:', 'Incomparables promesas me das Señor.']
     },
