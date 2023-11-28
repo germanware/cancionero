@@ -1,7 +1,7 @@
 export default [
     {
         'id': 1,
-        'pedida': 7,
+        'pedida': 8,
         'name': "A quién iré?",
         'body': ['¿A quién iré en necesidad?', '¿A quién iré en busca de paz?', '¿Y quién podrá mi vida saciar de verdad?', '', '¿Quién más tendrá de mi compasión?', '¿Y entenderá mi corazón?', '¿Quién cambiará mi eternidad sino Tú, Jesús?', '', 'Cristo, ¿a donde más podría ir?', 'Cristo, ¿qué otro lugar puede existir?', 'Sólo Tú tienes palabras de amor,', 'Camino al Padre y Verdad eres Tú.', 'Cristo, ¿a donde más podría ir?']
     },
@@ -43,7 +43,7 @@ export default [
     },
     {
         'id': 8,
-        'pedida': 3,
+        'pedida': 4,
         'name': 'Bueno es alabar',
         'body': ['//Bueno es alabar, oh Señor, tu nombre.', 'Darte gloria, honra  y honor por siempre.', 'Bueno es alabarte Jesús y gozarme en tu poder//','', 'Porque grande eres Tú, grandes son tus obras.', 'Porque grande eres tú, grande es tu amor, grande es tu gloria.', 'Bueno es alabarte, oh Señor.']
     },
@@ -97,13 +97,13 @@ export default [
     },
     {
         'id': 17,
-        'pedida': 4,
+        'pedida': 6,
         'name': 'El Dios que adoramos',
         'body': ['El Dios que hizo los cielos y la tierra', 'con el poder de Su palabra reina con autoridad.', 'El Dios que aun los vientos le obedecen.', 'Una palabra es suficiente para los muertos levantar.', '', 'Nadie es como Él, oh gran Yo Soy.', '', 'Tú eres el Dios que adoramos', 'Todopoderoso y Soberano.', 'Grande en misericordia y poder para salvar.', 'Tú eres el Dios que adoramos,', 'quien derrotó la muerte y el pecado.', 'Glorioso Redentor y Rey, te adoramos.', '', 'El Dios que descendió desde Su trono', 'para llevar sobre sus hombros', 'nuestra culpa y transgresión.', 'Jesús, exaltado sobre todo', 'Nombre sobre todo nombre.', 'Sólo en Él hay Salvación.', '', 'A Él sea la gloria y el poder.', 'Todo es de Él y para Él.']
     },
     {
         'id': 18,
-        'pedida': 4,
+        'pedida': 5,
         'name': 'Él es la voz',
         'body': ['Él es la voz que mis oídos abrió;', 'la libertad que mis cadenas rompió.', 'Él es la luz que mi alma oscura iluminó.', 'Él es Jesús, toda mi vida transformó.', '', 'Él hizo cambiar mi odio en amor,', 'convierte en alegría mi dolor.', 'Puede transformar al más pecador,', 'darle una nueva vida y su perdón.', '', 'Él hizo que vuelva a latir mi corazón.']
     },
@@ -139,7 +139,7 @@ export default [
     },
     {
         'id': 24,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Fuerte Dios',
         'body': ['Fuerte Dios, Consolador, Príncipe de paz.', 'Gran Señor, vencedor,', 'siempre vives y siempre reinarás.', '', 'Dios te exalto, Dios te exalto.', 'Eres todo para mí, la creación canta de Ti', 'Dios te exalto, Dios, te exalto.', 'Te exalto Cristo, mi Rey.', '', 'Te exalto Cristo, mi Rey.', 'Te exalto Cristo, mi Rey.']
     },
@@ -265,7 +265,7 @@ export default [
     },
     {
         'id': 45,
-        'pedida': 3,
+        'pedida': 4,
         'name': 'Poderoso para salvar',
         'body': ['Todos necesitan amor que nunca falla.', 'Tu gracia y compasión', 'Todos necesitan perdón y esperanza', 'y un Dios que salva.', '', 'Cristo puede mover montes.', 'Sólo Dios puede salvar. Mi Dios puede salvar.', 'Por siempre autor de salvación.', 'Jesús la muerte venció, Él la muerte venció.', '', 'Aún con mis temores sé que me aceptas.', 'Lléname otra vez.', 'Mi vida entera ofrezco para seguir tus pasos,', 'a Ti me rindo.']
     },
@@ -319,7 +319,7 @@ export default [
     },
     {
         'id': 54,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Soberano',
         'body': ['//Soberano, Soberano,', 'cielo y tierra están en tus manos.', 'El trono y la corona tuyos son.', 'Somos tus siervos;', 'Tú eres el amo,// Señor.', '', 'Ven, cantemos a Jesús.', 'Exaltemos a nuestro salvador.', 'Adórale, alábale.', 'Es digno nuestro Rey.', '//¡Hosanna, Hosanna! ¡Hosanna al Señor!//']
     },
@@ -373,7 +373,7 @@ export default [
     },
     {
         'id': 63,
-        'pedida': 4,
+        'pedida': 5,
         'name': 'Cuan dulce paz',
         'body': ['En el fondo de mi alma hay una dulce quietud', 'Se difunde inundando mi ser', 'Una calma infinita que sólo podrán', 'Los amados de Dios comprender', '', 'Paz, paz, cuan dulce paz', 'Es aquella que el Padre me da', 'Yo le ruego por siempre que inunde mi ser', 'En sus ondas de amor celestial', '', 'Qué tesoro yo tengo en la paz que me dio', 'Y en el fondo de mi alma ha de estar', 'Tan segura que nadie quitarla podrá', 'Mientras mire los años pasar', '', 'Alma triste que en rudo conflicto te ves', 'Sola y débil tu senda al seguir', 'Haz de Cristo tu amigo pues fiel siempre es', 'Y su paz tú podrás recibir']
     },
@@ -445,13 +445,13 @@ export default [
     },
     {
         'id': 75,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'He decidido seguir a Cristo',
         'body': ['///He decidido seguir a Cristo.///', 'No vuelvo atrás, no vuelvo atrás.', '', '///El Rey de gloria me ha perdonado.///', 'No vuelvo atrás, no vuelvo atrás.', '', '///Las cosas viejas ya he dejado.///', 'No vuelvo atrás, no vuelvo atrás.', '', 'He decidido seguir a Cristo.', 'El Rey de gloria me ha perdonado.', 'Las cosas viejas ya he dejado.', 'No vuelvo atrás, no vuelvo atrás.']
     },
     {
         'id': 76,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Se Tú mi visión',
         'body': ['Dios de mi alma se Tú mi visión.', 'Nada te aparte de mi corazón.', 'Noche y día yo pienso en Ti,', 'Y tu presencia es luz para mí.', '', 'Sabiduría se Tú de mi ser.', 'Quiero a tu lado mi senda correr.', 'Como tu hijo, oh, tenme Señor.', 'Siempre morando en un mismo amor.', '', 'Riquezas vanas no quiero Señor,', 'Ni el hueco halago de la adulación.', 'Tú eres mi herencia, y Tú mi porción.', 'Rey de los cielos, tesoro mejor.', '', 'Oh Dios de gloria y del triunfo final', 'Déjame el gozo del cielo alcanzar.', 'Alma de mi alma, mi dueño y Señor.', 'En vida y muerte, se Tú mi visión.']
     },
