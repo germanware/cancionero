@@ -133,7 +133,7 @@ export default [
     },
     {
         'id': 23,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'Este pueblo que has formado',
         'body': ['Este pueblo que has formado hoy viene entregar', 'las ofrendas de sus labios, puestas en tu altar.', 'Este pueblo es tu Iglesia, que viene a adorar', 'al Único, a su Amado, al Rey de libertad.', '', 'Y canta: ¡Hosanna, gloria aleluya!', 'Oh Jesús amado tu amor me cautivado.', 'Y canta: ¡Hosanna, gloria, aleluya!', 'Alabanzas hoy yo traigo a tu nombre, Jesús.']
     },
@@ -289,7 +289,7 @@ export default [
     },
     {
         'id': 49,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'Que hermoso es cantar',
         'body': ['Que hermoso es cantar,', 'que hermoso es orar.', 'Que hermoso es buscar', 'el rostro de Dios.', 'Gustar de su amor,', 'gozar de su paz.', 'Que hermoso es tener', 'de Cristo el solaz.', 'La sangre que dio,', 'limpió nuestro mal.', 'Que hermoso es cantar,', 'que hermoso es orar.']
     },
@@ -415,7 +415,7 @@ export default [
     },
     {
         'id': 70,
-        'pedida': 5,
+        'pedida': 6,
         'name': 'Victoria en Cristo',
         'body': ['Oí bendita historia de Jesús, quién de su gloria,', 'al calvario decidió venir para salvarme a mí.', 'Su sangre derramada, se aplicó feliz a mi alma.', 'Me dio victoria sinigual cuando me arrepentí.', '', 'Ya tengo la victoria, pues Cristo me salva.', 'Buscome y comprome con su divino amor.', 'Me imparte de su gloria; su paz inunda mi alma.', 'Victoria me concedió cuando por mí murió.', '', 'Oí que en dulce gloria hay mansiones de victoria,', 'que su santa mano preparó, para los que Él salvó.', 'Espero unir mi canto al coro de los santos,', 'que victorioso rendirá tributo al Redentor.']
     },
@@ -457,7 +457,7 @@ export default [
     },
     {
         'id': 77,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'Por Fe',
         'body': ['Por fe veremos a nuestro Dios,', 'En el plan que creó en la eternindad,', 'En la vida de los fieles que llamó,', 'A vivir por fe y no por ver.', 'Por fe el justo vivirá;', 'Por la fe caminamos junto a Él', 'Como viendo al invisible, Protector;', 'Vivir por fe y no por ver.', '', 'Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.', '', 'Por fe profetas hablaron fiel;', 'Por la fe proclamaron la verdad', 'Del Mesías prometido en Edén,', 'El que la muerte venció en la cruz.', 'Por fe la iglesia se moverá,', 'Con poder del Espíritu de Dios;', 'Y las huestes del infierno no podrán,', 'Dañar la obra de nuestro Dios.', '', 'Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.', '', 'Por fe los montes se moverán,', 'Si la fe permanece en Jesús;', 'El poder del evangelio librará,', 'A todo aquel que confía en Él.', '', '//Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.//']
     }
