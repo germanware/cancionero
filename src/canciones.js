@@ -1,7 +1,7 @@
 export default [
     {
         'id': 1,
-        'pedida': 8,
+        'pedida': 9,
         'name': "A quién iré?",
         'body': ['¿A quién iré en necesidad?', '¿A quién iré en busca de paz?', '¿Y quién podrá mi vida saciar de verdad?', '', '¿Quién más tendrá de mi compasión?', '¿Y entenderá mi corazón?', '¿Quién cambiará mi eternidad sino Tú, Jesús?', '', 'Cristo, ¿a donde más podría ir?', 'Cristo, ¿qué otro lugar puede existir?', 'Sólo Tú tienes palabras de amor,', 'Camino al Padre y Verdad eres Tú.', 'Cristo, ¿a donde más podría ir?']
     },
@@ -205,7 +205,7 @@ export default [
     },
     {
         'id': 35,
-        'pedida': 8,
+        'pedida': 9,
         'name': 'Más de lo que soñé',
         'body': ['Río en la sequedad, Paz en la adversidad', 'Fuerza en debilidad, El cielo es mi realidad', 'Sangre por libertad, Heridas por sanidad', 'Gracia en la iniquidad, Justicia por mi maldad.', '', 'Poderoso, Invencible, Deslumbrante, No tienes igual', 'Bondadoso, Generoso, Desbordante, No tienes igual', '', 'De mi pecado no tienes memoria,', 'Cambiaste mi nombre, reescribes mi historia,', 'En tus promesas seguro caminaré', 'Eres más de lo que soñé.', '', 'Tuya es toda gloria, El poder y honra', 'Tuya es toda gloria, El poder y honra']
     },
@@ -301,7 +301,7 @@ export default [
     },
     {
         'id': 51,
-        'pedida': 3,
+        'pedida': 4,
         'name': 'Quiero cantar una linda canción',
         'body': ['Quiero cantar una linda canción', 'de un hombre que me transformó.', 'Quiero cantar una linda canción', 'de Aquel que mi vida cambió.', 'Es mi amigo Jesús,', 'es mi amigo Jesús.', 'Él es Dios, Él es Rey,', 'es amor y verdad.', 'Sólo en Él encontré', 'esa paz que busqué.', 'Sólo en Él encontré', 'la felicidad.', '', '¿Quieres amigo cantar y alabar', 'al que puede tu vida cambiar?', '¿Quieres amigo cantar y alabar', 'al que puede tu alma salvar?', 'Él será para ti,', 'el amigo mejor.', 'Él es Dios, Él es Rey,', 'es amor y verdad.', 'Sólo en Él encontré', 'esa paz que busqué.', 'Sólo en Él encontré', 'la felicidad.']
     },
@@ -331,7 +331,7 @@ export default [
     },
     {
         'id': 56,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Te alabaré, no importa como esté',
         'body': ['Te alabaré, no importa como esté.', 'Te alabaré, en Ti yo tengo fe.', '//Aunque los ojos dejen de brillar,', 'aunque la voz se apague y no pueda cantar.//', '', 'Te serviré, no importa como esté.', 'Te serviré, en Ti yo tengo fe.', '//Aunque el dolor comience a preguntar,', 'aunque la luz se apague y no pueda ver más.//', '', 'Me alegraré en Cristo, mi Señor.', 'Me alegraré en Ti, mi Salvador.', '//Si alguna vez sin fuerza he de quedar,', 'Tú eres mi fortaleza y Tú me harás andar.//']
     },
@@ -343,7 +343,7 @@ export default [
     },
     {
         'id': 58,
-        'pedida': 11,
+        'pedida': 12,
         'name': 'Tú eres Dios',
         'body': ['Desde el fondo del mar,', 'del más alto lugar,', 'del más hondo abismo,', 'te alabaré.', 'Desde mi corazón,', 'fuerte o débil esté,', 'cada instante de mi vida,', 'con gozo yo diré:', '', 'Que Tú eres la roca eterna,', 'Señor sobre cielo y tierra.', 'Tú eres Dios.', 'Que toda criatura adore,', 'que toda nación se postre', 'a Ti, Señor. Tú eres Dios.']
     },
