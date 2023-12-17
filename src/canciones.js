@@ -7,7 +7,7 @@ export default [
     },
     {
         'id': 2,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'Al único que es digno',
         'body': ['//Al único que es digno de recibir', 'gloria y honra, fuerza y poder;', 'al Dios y Padre eternal, invisible pero real,', 'a Él hoy ministramos loor.//', '', 'Te coronamos, Señor y Rey Jesús.', 'Te coronamos, Señor y Rey Jesús.', 'Adoramos tu Nombre, nos rendimos a tus pies.', '///Consagramos todo nuestro ser a Ti.///']
     },
@@ -19,7 +19,7 @@ export default [
     },
     {
         'id': 4,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Alzaré mis ojos a los montes',
         'body': ['Alzaré mis ojos a los montes,', '¿De dónde vendrá mi socorro?', 'Mi socorro viene de Jehová,', 'que hizo los cielos y la tierra.', '', 'No dará tu pie al resbaladero,', 'ni se dormirá el que te guarda.', 'Jehová es tu guardador,', 'desde ahora y para siempre.']
     },
@@ -223,7 +223,7 @@ export default [
     },
     {
         "id": 38,
-        "pedida": 8,
+        "pedida": 9,
         "name": "Mi Roca",
         "body": ["Mi esperanza está en Jesús,", "en su justicia y en la cruz.", "De nadie más dependeré;", "sólo en su Nombre confiaré.", "", "En Jesús fuerte soy.", "Sólo Él mi Roca es.", "Sobre la tempestad,", "Él es Rey.", "", "Cuando no puedo ver su faz", "sé que su gracia es siempre igual.", "A la tormenta venceré.", "//Mi ancla firme está en Él.//", "", "Un día Él regresará;", "en su presencia voy a estar.", "Sin mancha ante Él vendré,", "//justificado por la fe.//"]
     },
@@ -361,7 +361,7 @@ export default [
     },
     {
         'id': 61,
-        'pedida': 4,
+        'pedida': 5,
         'name': 'Tu Nombre levantaré',
         'body': ['Tu Nombre levantaré,', 'me deleito en adorarte.', 'Te agradezco que en mi vida estés,', 'y que vinieras a salvarme.', '', '/Dejaste el trono para mostrarnos la luz,', 'de tu trono a la cruz y mi deuda pagar,', 'de la cruz al morir, de la muerte a tu trono.', 'Tu nombre levantaré./']
     },
@@ -379,7 +379,7 @@ export default [
     },
     {
         'id': 64,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Manantial de vida eterna',
         'body': ['Manantial de vida eterna y de toda bendición.', 'Ensalzar tu gracia tierna, debe cada corazón.', 'Tu piedad inagotable, abundante en perdonar,', 'Jesús, Señor adorable, gloria a Ti debemos dar.', '', 'De los cánticos celestes te quisiéramos cantar,', 'Entonados por las huestes que lograste rescatar;', 'Almas que a buscar viniste porque les tuviste amor,', 'De ellas te compadeciste hasta darte en cruz, Señor.', '', 'Toma nuestros corazones, llénalos de tu verdad,', 'De tu Espíritu los dones y de toda santidad;', 'Guíanos en obediencia, humildad, amor y fe;', 'Nos ampare tu clemencia, ¡Oh Señor! propicio sé.']
     },
@@ -415,7 +415,7 @@ export default [
     },
     {
         'id': 70,
-        'pedida': 6,
+        'pedida': 7,
         'name': 'Victoria en Cristo',
         'body': ['Oí bendita historia de Jesús, quién de su gloria,', 'al calvario decidió venir para salvarme a mí.', 'Su sangre derramada, se aplicó feliz a mi alma.', 'Me dio victoria sinigual cuando me arrepentí.', '', 'Ya tengo la victoria, pues Cristo me salva.', 'Buscome y comprome con su divino amor.', 'Me imparte de su gloria; su paz inunda mi alma.', 'Victoria me concedió cuando por mí murió.', '', 'Oí que en dulce gloria hay mansiones de victoria,', 'que su santa mano preparó, para los que Él salvó.', 'Espero unir mi canto al coro de los santos,', 'que victorioso rendirá tributo al Redentor.']
     },
