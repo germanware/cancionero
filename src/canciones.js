@@ -199,7 +199,7 @@ export default [
     },
     {
         'id': 34,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Maravilloso Dios',
         'body': ['Maravilloso Dios, Tú permaneces siempre fiel.', 'Tu gloria y tu poder llenan mi vida de tu ser.', 'Sostenme con tu amor,', 'con la victoria en tu perdón.', '', 'Desde mi corazón te canto hoy']
     },
@@ -271,7 +271,7 @@ export default [
     },
     {
         "id": 46,
-        "pedida": 0,
+        "pedida": 1,
         "name": "Poema de Salvación",
         "body": ["Cristo moriste en una cruz,", "resucitaste con poder.", "Perdona mis pecados hoy,", "se mi Señor y Salvador.", "", "Cámbiame y hazme otra vez", "y ayúdame a serte fiel.", "Cámbiame y hazme otra vez", "y ayúdame a serte fiel."]
     },
@@ -415,7 +415,7 @@ export default [
     },
     {
         'id': 70,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Victoria en Cristo',
         'body': ['Oí bendita historia de Jesús, quién de su gloria,', 'al calvario decidió venir para salvarme a mí.', 'Su sangre derramada, se aplicó feliz a mi alma.', 'Me dio victoria sinigual cuando me arrepentí.', '', 'Ya tengo la victoria, pues Cristo me salva.', 'Buscome y comprome con su divino amor.', 'Me imparte de su gloria; su paz inunda mi alma.', 'Victoria me concedió cuando por mí murió.', '', 'Oí que en dulce gloria hay mansiones de victoria,', 'que su santa mano preparó, para los que Él salvó.', 'Espero unir mi canto al coro de los santos,', 'que victorioso rendirá tributo al Redentor.']
     },
