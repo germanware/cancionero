@@ -7,7 +7,7 @@ export default [
     },
     {
         'id': 2,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Al único que es digno',
         'body': ['//Al único que es digno de recibir', 'gloria y honra, fuerza y poder;', 'al Dios y Padre eternal, invisible pero real,', 'a Él hoy ministramos loor.//', '', 'Te coronamos, Señor y Rey Jesús.', 'Te coronamos, Señor y Rey Jesús.', 'Adoramos tu Nombre, nos rendimos a tus pies.', '///Consagramos todo nuestro ser a Ti.///']
     },
@@ -25,7 +25,7 @@ export default [
     },
     {
         'id': 5,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Amor tan grande',
         'body': ['Amor tan grande, profundo y sublime', 'es el amor de mi buen Jesús.', 'No hay nada en el mundo que pueda igualarse', 'al tierno amor de mi buen Señor.', '', 'Dios de amor, oh Dios de amor.', 'Sólo eres Tú el Dios de amor;', 'no hay otro Dios, no lo hay,', 'fuera de Ti no lo hay.', 'Fuera de Ti, para mí no hay amor.', '', 'Él sólo nos ama, nos protege y nos guarda', 'de todos los males que existen aquí.', 'Por eso le adoro con toda mi alma', 'porque me ha dado mi Jesús dulce calma.']
     },
@@ -133,13 +133,13 @@ export default [
     },
     {
         'id': 23,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Este pueblo que has formado',
         'body': ['Este pueblo que has formado hoy viene entregar', 'las ofrendas de sus labios, puestas en tu altar.', 'Este pueblo es tu Iglesia, que viene a adorar', 'al Único, a su Amado, al Rey de libertad.', '', 'Y canta: ¡Hosanna, gloria aleluya!', 'Oh Jesús amado tu amor me cautivado.', 'Y canta: ¡Hosanna, gloria, aleluya!', 'Alabanzas hoy yo traigo a tu nombre, Jesús.']
     },
     {
         'id': 24,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Fuerte Dios',
         'body': ['Fuerte Dios, Consolador, Príncipe de paz.', 'Gran Señor, vencedor,', 'siempre vives y siempre reinarás.', '', 'Dios te exalto, Dios te exalto.', 'Eres todo para mí, la creación canta de Ti', 'Dios te exalto, Dios, te exalto.', 'Te exalto Cristo, mi Rey.', '', 'Te exalto Cristo, mi Rey.', 'Te exalto Cristo, mi Rey.']
     },
@@ -163,7 +163,7 @@ export default [
     },
     {
         'id': 28,
-        'pedida': 0,
+        'pedida': 2,
         'name': 'Hay Libertad',
         'body': ['Las cadenas de la muerte me quitó.', 'Para mí ya no hay condenación,', 'hay libertad, libertad.', 'Siendo esclavo del pecado me libró.', 'En la cruz compró mi redención,', 'y libertad, libertad.', '', 'Rompió mis cadenas, me dio vida nueva', 'y al fondo del mar echó mi maldad.', 'Lavó mis pecados y me ha perdonado.', 'Sólo en el nombre de Jesús hay libertad.', '', 'Yo proclamo al que en la cruz por mí murió', 'y cambió mi duro corazón', 'por libertad, libertad.', 'El poder de su evangelio me salvó', 'y no me avergüenzo del Señor:', 'mi libertad, libertad.', '', '/Al que el Hijo, hace libre, es libre en verdad/']
     },
@@ -205,7 +205,7 @@ export default [
     },
     {
         'id': 35,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Más de lo que soñé',
         'body': ['Río en la sequedad, Paz en la adversidad', 'Fuerza en debilidad, El cielo es mi realidad', 'Sangre por libertad, Heridas por sanidad', 'Gracia en la iniquidad, Justicia por mi maldad.', '', 'Poderoso, Invencible, Deslumbrante, No tienes igual', 'Bondadoso, Generoso, Desbordante, No tienes igual', '', 'De mi pecado no tienes memoria,', 'Cambiaste mi nombre, reescribes mi historia,', 'En tus promesas seguro caminaré', 'Eres más de lo que soñé.', '', 'Tuya es toda gloria, El poder y honra', 'Tuya es toda gloria, El poder y honra']
     },
@@ -337,7 +337,7 @@ export default [
     },
     {
         'id': 57,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Te alabaré, oh Señor',
         'body': ['//Te alabaré ¡oh Señor!', 'Invocaré tu Santo Nombre;', 'siempre daré a conocer', 'a los pueblos tus obras.//', '', '//Grandes son, grandes son,', 'grandes son tus maravillas.//']
     },
@@ -415,7 +415,7 @@ export default [
     },
     {
         'id': 70,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Victoria en Cristo',
         'body': ['Oí bendita historia de Jesús, quién de su gloria,', 'al calvario decidió venir para salvarme a mí.', 'Su sangre derramada, se aplicó feliz a mi alma.', 'Me dio victoria sinigual cuando me arrepentí.', '', 'Ya tengo la victoria, pues Cristo me salva.', 'Buscome y comprome con su divino amor.', 'Me imparte de su gloria; su paz inunda mi alma.', 'Victoria me concedió cuando por mí murió.', '', 'Oí que en dulce gloria hay mansiones de victoria,', 'que su santa mano preparó, para los que Él salvó.', 'Espero unir mi canto al coro de los santos,', 'que victorioso rendirá tributo al Redentor.']
     },
@@ -457,7 +457,7 @@ export default [
     },
     {
         'id': 77,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Por Fe',
         'body': ['Por fe veremos a nuestro Dios,', 'En el plan que creó en la eternindad,', 'En la vida de los fieles que llamó,', 'A vivir por fe y no por ver.', 'Por fe el justo vivirá;', 'Por la fe caminamos junto a Él', 'Como viendo al invisible, Protector;', 'Vivir por fe y no por ver.', '', 'Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.', '', 'Por fe profetas hablaron fiel;', 'Por la fe proclamaron la verdad', 'Del Mesías prometido en Edén,', 'El que la muerte venció en la cruz.', 'Por fe la iglesia se moverá,', 'Con poder del Espíritu de Dios;', 'Y las huestes del infierno no podrán,', 'Dañar la obra de nuestro Dios.', '', 'Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.', '', 'Por fe los montes se moverán,', 'Si la fe permanece en Jesús;', 'El poder del evangelio librará,', 'A todo aquel que confía en Él.', '', '//Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.//']
     }
