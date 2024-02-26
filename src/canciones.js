@@ -1,7 +1,7 @@
 export default [
     {
         'id': 1,
-        'pedida': 0,
+        'pedida': 1,
         'name': "A quién iré?",
         'body': ['¿A quién iré en necesidad?', '¿A quién iré en busca de paz?', '¿Y quién podrá mi vida saciar de verdad?', '', '¿Quién más tendrá de mi compasión?', '¿Y entenderá mi corazón?', '¿Quién cambiará mi eternidad sino Tú, Jesús?', '', 'Cristo, ¿a donde más podría ir?', 'Cristo, ¿qué otro lugar puede existir?', 'Sólo Tú tienes palabras de amor,', 'Camino al Padre y Verdad eres Tú.', 'Cristo, ¿a donde más podría ir?']
     },
@@ -43,7 +43,7 @@ export default [
     },
     {
         'id': 8,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Bueno es alabar',
         'body': ['//Bueno es alabar, oh Señor, tu nombre.', 'Darte gloria, honra  y honor por siempre.', 'Bueno es alabarte Jesús y gozarme en tu poder//','', 'Porque grande eres Tú, grandes son tus obras.', 'Porque grande eres tú, grande es tu amor, grande es tu gloria.', 'Bueno es alabarte, oh Señor.']
     },
@@ -91,13 +91,13 @@ export default [
     },
     {
         'id': 16,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Dios Imparable',
         'body': ['Eres alabado, eres exaltado.', 'Tu nombre levantamos, aleluya, aleluya.', 'Eres adorado, te glorificamos.', 'Tu nombre levantamos, aleluya, aleluya.', '', 'A una sola voz, nos unimos hoy.', 'Te cantamos Dios en adoración.', '', '//Dios imparable, Dios de imposibles', 'Inigualable, eres invencible//', '//No tengo temor en mi corazón,', 'Tú tienes el control//', '', '//No me falta nada si te tengo a Ti.//']
     },
     {
         'id': 17,
-        'pedida': 0,
+        'pedida': 2,
         'name': 'El Dios que adoramos',
         'body': ['El Dios que hizo los cielos y la tierra', 'con el poder de Su palabra reina con autoridad.', 'El Dios que aun los vientos le obedecen.', 'Una palabra es suficiente para los muertos levantar.', '', 'Nadie es como Él, oh gran Yo Soy.', '', 'Tú eres el Dios que adoramos', 'Todopoderoso y Soberano.', 'Grande en misericordia y poder para salvar.', 'Tú eres el Dios que adoramos,', 'quien derrotó la muerte y el pecado.', 'Glorioso Redentor y Rey, te adoramos.', '', 'El Dios que descendió desde Su trono', 'para llevar sobre sus hombros', 'nuestra culpa y transgresión.', 'Jesús, exaltado sobre todo', 'Nombre sobre todo nombre.', 'Sólo en Él hay Salvación.', '', 'A Él sea la gloria y el poder.', 'Todo es de Él y para Él.']
     },
@@ -163,7 +163,7 @@ export default [
     },
     {
         'id': 28,
-        'pedida': 2,
+        'pedida': 3,
         'name': 'Hay Libertad',
         'body': ['Las cadenas de la muerte me quitó.', 'Para mí ya no hay condenación,', 'hay libertad, libertad.', 'Siendo esclavo del pecado me libró.', 'En la cruz compró mi redención,', 'y libertad, libertad.', '', 'Rompió mis cadenas, me dio vida nueva', 'y al fondo del mar echó mi maldad.', 'Lavó mis pecados y me ha perdonado.', 'Sólo en el nombre de Jesús hay libertad.', '', 'Yo proclamo al que en la cruz por mí murió', 'y cambió mi duro corazón', 'por libertad, libertad.', 'El poder de su evangelio me salvó', 'y no me avergüenzo del Señor:', 'mi libertad, libertad.', '', '/Al que el Hijo, hace libre, es libre en verdad/']
     },
@@ -187,7 +187,7 @@ export default [
     },
     {
         'id': 32,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'La única razón',
         'body': ['La única razón de mi adoración,', 'eres Tú mi Jesús.', 'El único motivo para vivir,', 'eres Tú mi Señor.', '', 'Mi única verdad está en Ti,', 'eres mi luz y mi salvación.', 'Mi único amor, eres Tú Señor', 'y por siempre te alabaré.', '', '//Tú eres Todopoderoso,', 'eres grande y majestuoso,', 'eres fuerte, invencible', 'y no hay nadie como Tú.//']
     },
@@ -271,7 +271,7 @@ export default [
     },
     {
         "id": 46,
-        "pedida": 1,
+        "pedida": 2,
         "name": "Poema de Salvación",
         "body": ["Cristo moriste en una cruz,", "resucitaste con poder.", "Perdona mis pecados hoy,", "se mi Señor y Salvador.", "", "Cámbiame y hazme otra vez", "y ayúdame a serte fiel.", "Cámbiame y hazme otra vez", "y ayúdame a serte fiel."]
     },
@@ -337,7 +337,7 @@ export default [
     },
     {
         'id': 57,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Te alabaré, oh Señor',
         'body': ['//Te alabaré ¡oh Señor!', 'Invocaré tu Santo Nombre;', 'siempre daré a conocer', 'a los pueblos tus obras.//', '', '//Grandes son, grandes son,', 'grandes son tus maravillas.//']
     },
@@ -349,7 +349,7 @@ export default [
     },
     {
         'id': 59,
-        'pedida': 0,
+        'pedida': 1,
         'name': 'Tú eres todo',
         'body': ['Creador sin igual, que se hizo mortal.', 'En la cruz Él nos dio libertad,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Un día Él me encontró y me dio salvación,', 'y limpió mi rebelde interior,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Tú eres todo, Dios con nosotros,', 'Rey sin igual, no hay más palabras.', '', 'Si me encuentra la paz o una gran tempestad,', 'esta voz nunca voy a callar,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!', '', 'Y yo sé que vas a volver a este mundo envolver', 'con el fuego y la luz de tu ser,', 'y todo lo que yo soy cantará la canción:', '//¡Toda gloria a Cristo Jesús!//', '', 'CORO x2', '', 'Cuando esté frente al sol junto al gran resplandor', 'del eterno y glorioso Señor,', 'y todo lo que yo soy cantará la canción:', '¡Toda gloria a Cristo Jesús!']
     },
