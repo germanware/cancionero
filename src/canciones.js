@@ -133,7 +133,7 @@ export default [
     },
     {
         'id': 23,
-        'pedida': 1,
+        'pedida': 2,
         'name': 'Este pueblo que has formado',
         'body': ['Este pueblo que has formado hoy viene entregar', 'las ofrendas de sus labios, puestas en tu altar.', 'Este pueblo es tu Iglesia, que viene a adorar', 'al Único, a su Amado, al Rey de libertad.', '', 'Y canta: ¡Hosanna, gloria aleluya!', 'Oh Jesús amado tu amor me cautivado.', 'Y canta: ¡Hosanna, gloria, aleluya!', 'Alabanzas hoy yo traigo a tu nombre, Jesús.']
     },
@@ -187,7 +187,7 @@ export default [
     },
     {
         'id': 32,
-        'pedida': 3,
+        'pedida': 4,
         'name': 'La única razón',
         'body': ['La única razón de mi adoración,', 'eres Tú mi Jesús.', 'El único motivo para vivir,', 'eres Tú mi Señor.', '', 'Mi única verdad está en Ti,', 'eres mi luz y mi salvación.', 'Mi único amor, eres Tú Señor', 'y por siempre te alabaré.', '', '//Tú eres Todopoderoso,', 'eres grande y majestuoso,', 'eres fuerte, invencible', 'y no hay nadie como Tú.//']
     },
@@ -271,7 +271,7 @@ export default [
     },
     {
         "id": 46,
-        "pedida": 4,
+        "pedida": 5,
         "name": "Poema de Salvación",
         "body": ["Cristo moriste en una cruz,", "resucitaste con poder.", "Perdona mis pecados hoy,", "se mi Señor y Salvador.", "", "Cámbiame y hazme otra vez", "y ayúdame a serte fiel.", "Cámbiame y hazme otra vez", "y ayúdame a serte fiel."]
     },
