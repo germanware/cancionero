@@ -460,5 +460,17 @@ export default [
         'pedida': 6,
         'name': 'Por Fe',
         'body': ['Por fe veremos a nuestro Dios,', 'En el plan que creó en la eternindad,', 'En la vida de los fieles que llamó,', 'A vivir por fe y no por ver.', 'Por fe el justo vivirá;', 'Por la fe caminamos junto a Él', 'Como viendo al invisible, Protector;', 'Vivir por fe y no por ver.', '', 'Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.', '', 'Por fe profetas hablaron fiel;', 'Por la fe proclamaron la verdad', 'Del Mesías prometido en Edén,', 'El que la muerte venció en la cruz.', 'Por fe la iglesia se moverá,', 'Con poder del Espíritu de Dios;', 'Y las huestes del infierno no podrán,', 'Dañar la obra de nuestro Dios.', '', 'Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.', '', 'Por fe los montes se moverán,', 'Si la fe permanece en Jesús;', 'El poder del evangelio librará,', 'A todo aquel que confía en Él.', '', '//Sus promesas como roca son,', 'Sus promesas cumple nuestro Dios.', 'Nos movemos solo por la fe en Él.', 'Vivir por fe y no por ver.//']
+    },
+    {
+        'id': 78,
+        'pedida': 0,
+        'name': 'Gracias Cristo',
+        'body': ['El misterio de la cruz no puedo comprender', 'La angustia que llegó a sufrir', 'El perfecto Dios su, su Hijo entregó', 'La copa amarga Él bebió por mí.', '', 'Tu sangre, mi maldad lavó. Gracias, Cristo.', 'Fue satisfecha la ira de Dios. Gracias, Cristo.', 'Tu enemigo fui y hoy me siento a tu mesa', 'Gracias, Cristo.', '', 'Por tu sacrificio me acercaste a Ti', 'Quitaste toda enemistad.', 'Tu gloriosa gracia derramaste en mí', 'Tu misericordia es sinigual.', '', 'Tu sangre, mi maldad lavó. Gracias, Cristo.', 'Fue satisfecha la ira de Dios. Gracias, Cristo.', 'Tu enemigo fui y hoy me siento a tu mesa', 'Gracias, Cristo.', '', 'Tu sangre, mi maldad lavó. Gracias, Cristo.', 'Fue satisfecha la ira de Dios. Gracias, Cristo.', 'Tu enemigo fui y hoy me siento a tu mesa', 'Tu enemigo fui y hoy me siento a tu mesa', 'Gracias, Cristo.']
+    },
+    {
+        'id': 79,
+        'pedida': 0,
+        'name': 'Como el ciervo',
+        'body': ['Como el cierco clama por las aguas,', 'Mi alma anhela a Dios.', 'Sólo Tú satisfaces mi ansiedad', 'Llenándome de paz.', '', 'Solo Tú eres mi sostén', '¿A quién iré sino solo a ti?', 'Yo te rindo mi vida entera', 'Para siempre a Ti Señor.', '', 'Cristo, Tú eres mi amigo y mi hermano,', 'Aunque eres Rey también.', 'Yo te amo por sobre todo', 'Y te alabo, mi Señor.', '', 'Más que al oro te anhelo a Ti,', 'Pues solo Tú me podrás saciar.', 'Solo Tú eres mi alegría,', 'La razón de mi existir.',]
     }
 ]
