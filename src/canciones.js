@@ -465,12 +465,12 @@ export default [
         'id': 78,
         'pedida': 0,
         'name': 'Gracias Cristo',
-        'body': ['El misterio de la cruz no puedo comprender', 'La angustia que llegó a sufrir', 'El perfecto Dios su, su Hijo entregó', 'La copa amarga Él bebió por mí.', '', 'Tu sangre, mi maldad lavó. Gracias, Cristo.', 'Fue satisfecha la ira de Dios. Gracias, Cristo.', 'Tu enemigo fui y hoy me siento a tu mesa', 'Gracias, Cristo.', '', 'Por tu sacrificio me acercaste a Ti', 'Quitaste toda enemistad.', 'Tu gloriosa gracia derramaste en mí', 'Tu misericordia es sinigual.', '', 'Tu sangre, mi maldad lavó. Gracias, Cristo.', 'Fue satisfecha la ira de Dios. Gracias, Cristo.', 'Tu enemigo fui y hoy me siento a tu mesa', 'Gracias, Cristo.', '', 'Tu sangre, mi maldad lavó. Gracias, Cristo.', 'Fue satisfecha la ira de Dios. Gracias, Cristo.', 'Tu enemigo fui y hoy me siento a tu mesa', 'Tu enemigo fui y hoy me siento a tu mesa', 'Gracias, Cristo.']
+        'body': ['El misterio de la cruz no puedo comprender', 'La angustia que llegó a sufrir', 'El perfecto Dios, su Hijo entregó', 'La copa amarga Él bebió por mí.', '', 'Tu sangre, mi maldad lavó. Gracias, Cristo.', 'Fue satisfecha la ira de Dios. Gracias, Cristo.', 'Tu enemigo fui y hoy me siento a tu mesa', 'Gracias, Cristo.', '', 'Por tu sacrificio me acercaste a Ti', 'Quitaste toda enemistad.', 'Tu gloriosa gracia derramaste en mí', 'Tu misericordia es sinigual.', '', 'Tu sangre, mi maldad lavó. Gracias, Cristo.', 'Fue satisfecha la ira de Dios. Gracias, Cristo.', 'Tu enemigo fui y hoy me siento a tu mesa', 'Gracias, Cristo.', '', 'Tu sangre, mi maldad lavó. Gracias, Cristo.', 'Fue satisfecha la ira de Dios. Gracias, Cristo.', 'Tu enemigo fui y hoy me siento a tu mesa', 'Tu enemigo fui y hoy me siento a tu mesa', 'Gracias, Cristo.']
     },
     {
         'id': 79,
         'pedida': 0,
         'name': 'Como el ciervo',
-        'body': ['Como el cierco clama por las aguas,', 'Mi alma anhela a Dios.', 'Sólo Tú satisfaces mi ansiedad', 'Llenándome de paz.', '', 'Solo Tú eres mi sostén', '¿A quién iré sino solo a ti?', 'Yo te rindo mi vida entera', 'Para siempre a Ti Señor.', '', 'Cristo, Tú eres mi amigo y mi hermano,', 'Aunque eres Rey también.', 'Yo te amo por sobre todo', 'Y te alabo, mi Señor.', '', 'Más que al oro te anhelo a Ti,', 'Pues solo Tú me podrás saciar.', 'Solo Tú eres mi alegría,', 'La razón de mi existir.',]
+        'body': ['Como el ciervo clama por las aguas,', 'Mi alma anhela a Dios.', 'Sólo Tú satisfaces mi ansiedad', 'Llenándome de paz.', '', 'Solo Tú eres mi sostén', '¿A quién iré sino solo a ti?', 'Yo te rindo mi vida entera', 'Para siempre a Ti Señor.', '', 'Cristo, Tú eres mi amigo y mi hermano,', 'Aunque eres Rey también.', 'Yo te amo por sobre todo', 'Y te alabo, mi Señor.', '', 'Más que al oro te anhelo a Ti,', 'Pues solo Tú me podrás saciar.', 'Solo Tú eres mi alegría,', 'La razón de mi existir.',]
     }
 ]
