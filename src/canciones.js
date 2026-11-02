@@ -466,5 +466,11 @@ export default [
         'pedida': 0,
         'name': 'Como el ciervo',
         'body': ['Como el ciervo clama por las aguas,', 'Mi alma anhela a Dios.', 'Sólo Tú satisfaces mi ansiedad', 'Llenándome de paz.', '', 'Solo Tú eres mi sostén', '¿A quién iré sino solo a ti?', 'Yo te rindo mi vida entera', 'Para siempre a Ti Señor.', '', 'Cristo, Tú eres mi amigo y mi hermano,', 'Aunque eres Rey también.', 'Yo te amo por sobre todo', 'Y te alabo, mi Señor.', '', 'Más que al oro te anhelo a Ti,', 'Pues solo Tú me podrás saciar.', 'Solo Tú eres mi alegría,', 'La razón de mi existir.',]
+    },
+    {
+        'id': 80,
+        'pedida': 0,
+        'name': 'Inagotable',
+        'body': ['Al pensar lo que has hecho en mí', 'Cuán profundo Tú me amaste', 'Sin dudar me escogiste a mí', 'Por mi nombre me llamaste', 'Dame de beber', '', 'De tu amor, la fuente de todo poder', 'El agua que sacia mi sed, tu inagotable amor', 'Tu amor nunca podré imaginar', 'El ancho y la profundidad de tu inagotable amor.', '', 'Tu lugar es ahora en mí', 'Al creerte me haces fuerte', 'Como Él es soy yo ahora aquí', 'Mis temores desvanecen', 'Dame de beber', '', 'De tu amor, la fuente de todo poder', 'El agua que sacia mi sed, tu inagotable amor', 'Tu amor nunca podré imaginar', 'El ancho y la profundidad de tu inagotable amor.', '', '///A aquel que tiene el poder', 'La gloria sea a Él///', 'Dame de beber', '', 'De tu amor, la fuente de todo poder', 'El agua que sacia mi sed, tu inagotable amor', 'Tu amor nunca podré imaginar', 'El ancho y la profundidad de tu inagotable amor.']
     }
 ]
