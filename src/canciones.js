@@ -141,7 +141,7 @@ export default [
         'id': 24,
         'pedida': 0,
         'name': 'Fuerte Dios',
-        'body': ['Fuerte Dios, Consolador, Príncipe de paz.', 'Gran Señor, vencedor,', 'siempre vives y siempre reinarás.', '', 'Dios te exalto, Dios te exalto.', 'Eres todo para mí, la creación canta de Ti', 'Dios te exalto, Dios, te exalto.', 'Te exalto Cristo, mi Rey.', '', 'Te exalto Cristo, mi Rey.', 'Te exalto Cristo, mi Rey.']
+        'body': ['Fuerte Dios, Consolador, Príncipe de paz.', 'Gran Señor, Vencedor,', 'siempre vives y siempre reinarás.', '', 'Dios te exalto, Dios te exalto.', 'Eres todo para mí, la creación canta de Ti', 'Dios te exalto, Dios, te exalto.', 'Te exalto Cristo, mi Rey.', '', 'Te exalto Cristo, mi Rey.', 'Te exalto Cristo, mi Rey.']
     },
     {
         'id': 25,
@@ -424,12 +424,6 @@ export default [
         'pedida': 0,
         'name': 'Cante al Señor',
         'body': ['Mi Cristo, mi Rey, Nadie es como Tú.', 'Toda mi vida quiero exaltar', 'las maravillas de tu amor.', '', 'Consuelo, Refugio, Torre de fuerza y poder.', 'Todo mi ser, lo que yo soy,', 'nunca cese de adorar.', '', 'Cante al Señor toda la creación.', 'Honra y poder, majestad sean al Rey.', 'Montes caerán y el mar rugirá', 'al sonar de su Nombre.', 'Canto con gozo al mirar tu poder.', 'Por siempre yo te amaré y diré:', 'Incomparables promesas me das Señor.']
-    },
-    {
-        'id': 72,
-        'pedida': 0,
-        'name': 'Solo en Jesús',
-        'body': ['Solo en Jesús confiado estoy.', 'Él es mi luz, fuerza y canción', 'La Roca es Él, piedra angular,', 'firme en angustia y tempestad.', 'Cuan alto amor, profunda paz.', 'Él calma el alma en ansiedad.', 'Consolador, mi todo es Él.', 'Sólo en su amor firme estaré.', '', 'Solo en Jesús quien se encarnó.', 'La plenitud de Dios llevó.', 'Su don de amor y rectitud', 'su propio pueblo rechazó.', 'Cuando en la cruz por mi murió,', 'Él propició la ira de Dios.', 'Todo pecado Él cargó', 'y en su muerte vivo yo.', '', 'La luz del mundo se humilló;', 'hasta la tumba padeció.', 'El día glorioso al fin llegó:', 'Cristo el Señor resucitó.', 'Él en victoria reina hoy,', 'la maldición de mi quitó.', 'Pues suyo soy y mío es Él', 'y con su sangre me compró.', '', 'No tengo culpa ni temor', 'por su poder que vive en mí.', 'Desde el principio hasta el final', 'Cristo mi vida ordenará.', 'Ya nada me podrá apartar,', 'ni de su mano arrebatar.', 'Hasta llamarme al hogar', 'en su poder me sostendrá.', 'Ya nada me podrá apartar,', 'ni de su mano arrebatar.', 'Hasta llamarme al hogar', 'en su poder me sostendrá.']
     },
     {
         'id': 73,
