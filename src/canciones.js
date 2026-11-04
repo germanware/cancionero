@@ -472,5 +472,11 @@ export default [
         'pedida': 0,
         'name': 'Inagotable',
         'body': ['Al pensar lo que has hecho en mí', 'Cuán profundo Tú me amaste', 'Sin dudar me escogiste a mí', 'Por mi nombre me llamaste', '', 'Dame de beber', 'De tu amor, la fuente de todo poder', 'El agua que sacia mi sed, tu inagotable amor', 'Tu amor nunca podré imaginar', 'El ancho y la profundidad de tu inagotable amor.', '', 'Tu lugar es ahora en mí', 'Al creerte me haces fuerte', 'Como Él es soy yo ahora aquí', 'Mis temores desvanecen', '', 'Dame de beber', 'De tu amor, la fuente de todo poder', 'El agua que sacia mi sed, tu inagotable amor', 'Tu amor nunca podré imaginar', 'El ancho y la profundidad de tu inagotable amor.', '', '///A aquel que tiene el poder', 'La gloria sea a Él///', '', 'Dame de beber', 'De tu amor, la fuente de todo poder', 'El agua que sacia mi sed, tu inagotable amor', 'Tu amor nunca podré imaginar', 'El ancho y la profundidad de tu inagotable amor.']
+    },
+    {
+        'id': 81,
+        'pedida': 0,
+        'name': 'Ruinas Gloriosas',
+        'body': ['En la oscuridad, en la tempestad Tú me cuidas', 'En dificultad, me levantaré en tu gracia.', '', 'Por el fuego andaré y no me quemaré', 'Tu espíritu aviva mi alma', 'A la cruz miraré, mi temor dejaré', 'En la luz de tu gracia Señor', '', 'Lo que seco y muerto está', 'Tú levantas con poder', 'Y restauras las ruinas', 'Dios por siempre eres Rey', 'Mi refugio encuentro', 'En la sombra de tu amor', 'Siempre quiero adorarte', 'Y amarte Señor.', '', 'Aun en el dolor mi esperanza está en tu promesa', 'Cuando débil soy tu poder me da nuevas fuerzas', '', 'Por el fuego andaré y no me quemaré', 'Tu espíritu aviva mi alma', 'A la cruz miraré, mi temor dejaré', 'En la luz de tu gracia Señor', '', '//Lo que seco y muerto está', 'Tú levantas con poder', 'Y restauras las ruinas', 'Dios por siempre eres Rey', 'Mi refugio encuentro', 'En la sombra de tu amor', 'Siempre quiero adorarte', 'Y amarte Señor.//']
     }
 ]
